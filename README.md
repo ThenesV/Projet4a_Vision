@@ -4,13 +4,13 @@ Basler caméra - USB 3.0
 
 ![image](https://user-images.githubusercontent.com/100229511/174100757-797c9316-a6af-4177-adb9-1a84e718b100.png)
 
-Webcam:
+# Webcam:
 
  - test/test_vision_camera.py : détection couleur bleu / objet avec une webcam
  
  - camera_telephone_v1 : détection de couleur avec une interface pour modifier le masque en temps réel (webcam ou téphone avec URL) 
  
-Camera Basler:
+# Camera Basler:
 
  - pylon_camera_serial.py : connecte la caméra à l'ordi (avec numéro de série)
  
