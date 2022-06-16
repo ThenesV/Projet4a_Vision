@@ -1,10 +1,15 @@
 # Projet4a_Vision
 
-Basler caméra - USB 3.0
+Camera Basler aca3088 57uc - USB 3.0
 
 ![image](https://user-images.githubusercontent.com/100229511/174100757-797c9316-a6af-4177-adb9-1a84e718b100.png)
 
-# Webcam:
+Robot Staubli TX90
+
+![image](https://user-images.githubusercontent.com/100229511/174104710-259c454f-7c13-4d78-8790-d2e2d7443e00.png)
+
+
+# Webcam tests: 
 
  - test/test_vision_camera.py : détection couleur bleu / objet avec une webcam
  
@@ -28,4 +33,7 @@ Interface pour choisir la couleur du masque (Teinte, Saturation, Luminance - HSV
 
  ![image](https://user-images.githubusercontent.com/100229511/174100324-2c48a0f4-dea4-438c-9d2b-592acc31e3f2.png)
 
+# Environnement SRS
+
+![env](https://user-images.githubusercontent.com/100229511/174104298-46ed8e6c-7b2c-425a-8e97-345e93d59f62.PNG)
 
