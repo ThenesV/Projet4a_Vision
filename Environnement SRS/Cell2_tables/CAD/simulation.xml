@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Simulation>
+  <Part Id="9a3247c8-9d81-43b5-a82d-c1511a79f4f3">
+    <InitialPosition X="626.76408826586714" Y="9.1099026716250613" Z="871.56038004839593" Rx="20.971418779248381" Ry="88.989522322347383" Rz="-110.97457490098752" />
+  </Part>
+  <Part Id="9f115a5b-9e67-45fa-8e36-4606aa6e0fa2">
+    <InitialPosition X="369.85955810546875" Y="393.37287282943726" Z="731.37405395507813" Rx="-180" Ry="0" Rz="-0" />
+  </Part>
+  <Behavior Id="68090d2c-0abb-45d7-9139-95282cba8261" InitialState="1e2170fa-c05f-48b2-8960-7178fb355394">
+    <State Id="1e2170fa-c05f-48b2-8960-7178fb355394" Name="opened" Trigger="Controller1\valve1" TriggerCondition="On" />
+    <State Id="08f82d5a-880d-4175-a719-cd60638cc3da" Name="closed" Trigger="Controller1\valve1" />
+    <Transition From="1e2170fa-c05f-48b2-8960-7178fb355394" To="08f82d5a-880d-4175-a719-cd60638cc3da" FromToDuration="PT0.01S" ToFromDuration="PT0.01S" />
+    <Handler Id="f5eac7d6-bbee-4a89-ad5c-404a8d712656" GraspStateId="08f82d5a-880d-4175-a719-cd60638cc3da" />
+  </Behavior>
+</Simulation>

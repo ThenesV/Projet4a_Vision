@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CellUserOptions>
+  <Controller Name="Controller1">
+    <Application>Disk://TP1_Paolo/TP1_Paolo.pjx</Application>
+  </Controller>
+  <Option Name="DataTreeView">
+    <Nodes>
+      <Node Path="Cell2_tables" IsExpanded="true" />
+      <Node Path="Cell2_tables\Controller1" IsExpanded="true" />
+      <Node Path="Cell2_tables\Controller1\TP1_Paolo" IsExpanded="true" />
+      <Node Path="Cell2_tables\Controller1\TP1_Paolo\frame" IsExpanded="true" />
+      <Node Path="Cell2_tables\Controller1\TP1_Paolo\frame\fTable" IsExpanded="true" />
+      <Node Path="Cell2_tables\Controller1\TP1_Paolo\jointRx" IsExpanded="true" />
+      <Node Path="Cell2_tables\Controller1\TP1_Paolo\jointRx\jDepart" IsExpanded="true" />
+      <Node Path="Cell2_tables\Controller1\TP1_Paolo\mdesc" IsExpanded="true" />
+      <Node Path="Cell2_tables\Controller1\TP1_Paolo\pointRx" IsExpanded="true" />
+      <Node Path="Cell2_tables\Controller1\TP1_Paolo\pointRx\pDepose" IsExpanded="true" />
+      <Node Path="Cell2_tables\Controller1\TP1_Paolo\pointRx\pPrise" IsExpanded="true" />
+      <Node Path="Cell2_tables\Controller1\TP1_Paolo\sio" IsExpanded="true" />
+      <Node Path="Cell2_tables\Controller1\TP1_Paolo\sio\sData" IsExpanded="true" />
+      <Node Path="Cell2_tables\Controller1\TP1_Paolo\tool" IsExpanded="true" />
+      <Node Path="Cell2_tables\Controller1\TP1_Paolo\tool\tPince" IsExpanded="true" />
+    </Nodes>
+  </Option>
+  <Option Name="CellExplorer">
+    <Nodes>
+      <Node Path="Cell2_tables" IsExpanded="true" />
+      <Node Path="Cell2_tables\Controller1" IsExpanded="true" />
+      <Node Path="Cell2_tables\Controller1\TP1_Paolo" IsExpanded="true" />
+    </Nodes>
+  </Option>
+  <Option Name="GeometryView">
+    <Nodes>
+      <Node Path="Cell2_tables" IsExpanded="true" />
+      <Node Path="Cell2_tables\Controller1" IsExpanded="true" />
+      <Node Path="Cell2_tables\Controller1\TP1_Paolo" IsExpanded="true" />
+      <Node Path="Cell2_tables\Controller1\TP1_Paolo\world[0]\fTable" IsExpanded="true" />
+      <Node Path="Cell2_tables\Controller1\TP1_Paolo\world[0]\fTable\fTable[0]" IsExpanded="true" />
+    </Nodes>
+  </Option>
+  <Option Name="Breakpoints">
+    <Breakpoints />
+  </Option>
+  <Option Name="IOsControlPanel">
+    <Ios />
+  </Option>
+  <Option Name="Watches">
+    <Watches />
+  </Option>
+  <Option Name="3DView">
+    <_3DView Visible="true" />
+  </Option>
+  <Option Name="SynchronizerMode">
+    <Synchronizers>
+      <Synchronizer Controller="Controller1" Mode="Emulator" />
+    </Synchronizers>
+  </Option>
+  <Option Name="Safety">
+    <Safeties />
+  </Option>
+</CellUserOptions>

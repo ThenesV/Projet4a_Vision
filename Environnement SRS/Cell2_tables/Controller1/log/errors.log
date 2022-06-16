@@ -1,0 +1,1401 @@
+﻿[02/08/22 08:51:17]: ----------------------------------------------- {c69145ad}
+[02/08/22 08:51:17]: Logger started (1048576) {1d32384d}
+[02/08/22 08:51:21]: <0x0003> CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ? {702e5334}
+[02/08/22 08:51:21]: <0x0003> Cycle time set to 0.004s {79d0a4b0}
+[02/08/22 08:51:21]: <0x0003> Simulation cycle time set to 0.1s {b1d8e3cc}
+[02/08/22 08:51:21]: <0x0002> Controller IP address could not be updated {02eb0d11}
+[02/08/22 08:51:21]: <0x0002> Default user payload used. {847576cb}
+[02/08/22 08:51:21]: <0x0003> Payload default: mass=6 kg, gravity center: x=0 y=0 z=97 mm, inertia=0 {45d837d8}
+[02/08/22 08:51:21]: <0x2401> Power hour count = 0:00:00 {d93af40f}
+[02/08/22 08:51:21]: <0x2401> Mac Address = 64-00-6a-68-86-2b {9c3156e9}
+[02/08/22 08:51:22]: <0x0003> COM-PC: server created on all interfaces [851] {98591b51}
+[02/08/22 08:51:22]: <0x2402> History handler has been connected to IHM {3ad4c5f8}
+[02/08/22 08:51:22]: <0x2401> System: s7.9 Dec 10 2015 {74b5ee09}
+[02/08/22 08:51:22]: <0x2401> Configuration Version: c1.032  {0055ca49}
+[02/08/22 08:51:22]: <0x2401> CPU: TEKNOR  {56cfb31f}
+[02/08/22 08:51:22]: <0x2401> Option testMode: enabled  {937d0481}
+[02/08/22 08:51:22]: <0x2401> Option VAL 3: enabled  {0a7c3009}
+[02/08/22 08:51:22]: <0x2401> Machine Number: ?  {7addd35a}
+[02/08/22 08:51:22]: <0x2401> Arm: tx90-S1-R6 floor {f4a5d9a1}
+[02/08/22 08:51:22]: <0x2401> Arm serial number: ?  {e9dc2941}
+[02/08/22 08:51:22]: <0x2401> Robot name:   {1df9f3ea}
+[02/08/22 08:51:22]: <0x2401> EP: s7.9 Dec  8 2015 {db8d9d5e}
+[02/08/22 08:51:22]: <0x2401> EP10: s7.9 Dec  8 2015 {ed6ca781}
+[02/08/22 08:51:22]: <0x2401> SCA: s7.9 Dec  8 2015 {97d7c48d}
+[02/08/22 08:51:22]: <0x2201> New profile : default {94b1ab82}
+[02/08/22 08:51:22]: <0x2401> End of controller initialization {c1dd578c}
+[02/08/22 08:51:22]: <0x2402> COM-PC: create session 127.0.0.1 on port 52914 id=#42228672 {521260d1}
+[02/08/22 08:51:23]: <0x1602> End of arm power shutdown phase. {8cac015f}
+[02/08/22 08:51:27]: <0x2401> Saving controller context... {2286a09f}
+[02/08/22 08:51:27]: <0x2402> Controller temperature: 28°C {2eedb101}
+[02/08/22 08:51:27]: <0x2402> CPU temperature: 28°C {58d2d3ca}
+[02/08/22 08:51:41]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 52914 id=#42228672 {038f22cd}
+[02/08/22 08:56:53]: <0x2402> COM-PC: create session 127.0.0.1 on port 53012 id=#42228360 {61bf251d}
+[02/08/22 08:58:31]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 53012 id=#42228360 {c2cca275}
+[02/08/22 08:58:50]: <0x2402> COM-PC: create session 127.0.0.1 on port 53071 id=#42228256 {3e422eb8}
+[02/08/22 09:00:11]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 53071 id=#42228256 {0b06a5dd}
+[02/08/22 09:00:15]: <0x2402> COM-PC: create session 127.0.0.1 on port 53112 id=#42227944 {d93e94c5}
+[02/08/22 09:00:32]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 53112 id=#42227944 {237aaa96}
+[02/08/22 09:01:38]: <0x2402> COM-PC: create session 127.0.0.1 on port 53140 id=#42227424 {13a5b7e8}
+[02/08/22 09:03:11]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 53140 id=#42227424 {8b664827}
+[02/08/22 09:03:37]: <0x2402> COM-PC: create session 127.0.0.1 on port 53187 id=#42229400 {1f208056}
+[02/08/22 09:03:51]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 53187 id=#42229400 {41a030ac}
+[02/08/22 09:07:22]: <0x2402> COM-PC: create session 127.0.0.1 on port 53251 id=#42227736 {4823d82f}
+[02/08/22 09:09:11]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 53251 id=#42227736 {2f56170a}
+[02/08/22 09:10:04]: <0x2402> COM-PC: create session 127.0.0.1 on port 53302 id=#42230128 {521b5530}
+[02/08/22 09:10:21]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 53302 id=#42230128 {dc3138b9}
+[02/08/22 09:10:57]: <0x2402> COM-PC: create session 127.0.0.1 on port 53321 id=#42229400 {2ae2736a}
+[02/08/22 09:11:11]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 53321 id=#42229400 {3e27f034}
+[02/08/22 09:12:22]: <0x2402> COM-PC: create session 127.0.0.1 on port 53354 id=#42230544 {2d4cb6ec}
+[02/08/22 09:12:41]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 53354 id=#42230544 {82323881}
+[02/08/22 09:13:20]: <0x2402> COM-PC: create session 127.0.0.1 on port 53377 id=#42228880 {681f4fc1}
+[02/08/22 09:13:51]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 53377 id=#42228880 {c23fcaeb}
+[02/08/22 09:15:52]: <0x2402> COM-PC: create session 127.0.0.1 on port 53427 id=#42229920 {90202ba5}
+[02/08/22 09:16:31]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 53427 id=#42229920 {fa60219a}
+[02/08/22 09:16:34]: <0x2402> COM-PC: create session 127.0.0.1 on port 53444 id=#42229920 {959fcbc9}
+[02/08/22 09:17:11]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 53444 id=#42229920 {35b49082}
+[02/08/22 09:17:47]: <0x2402> COM-PC: create session 127.0.0.1 on port 53466 id=#42227424 {59e26a03}
+[02/08/22 09:18:01]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 53466 id=#42227424 {c38b2a50}
+[02/08/22 09:20:21]: <0x2402> COM-PC: create session 127.0.0.1 on port 53511 id=#42227632 {51faa79c}
+[02/08/22 09:20:41]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 53511 id=#42227632 {bf54e283}
+[02/08/22 09:20:48]: <0x2402> COM-PC: create session 127.0.0.1 on port 53522 id=#42228672 {6589d669}
+[02/08/22 09:22:11]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 53522 id=#42228672 {feb7530b}
+[02/08/22 09:22:15]: <0x2402> COM-PC: create session 127.0.0.1 on port 53559 id=#42227944 {611ce0e9}
+[02/08/22 09:22:51]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 53559 id=#42227944 {732f0148}
+[02/08/22 09:23:37]: <0x2402> COM-PC: create session 127.0.0.1 on port 53585 id=#42228360 {f6d25133}
+[02/08/22 09:25:01]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 53585 id=#42228360 {3ca3722d}
+[02/08/22 09:25:07]: <0x2402> COM-PC: create session 127.0.0.1 on port 53614 id=#42230544 {e4cf1de9}
+[02/08/22 09:25:21]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 53614 id=#42230544 {24dc56c9}
+[02/08/22 09:25:25]: <0x2402> COM-PC: create session 127.0.0.1 on port 53626 id=#42227424 {135dfbfe}
+[02/08/22 09:25:41]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 53626 id=#42227424 {ca3154db}
+[02/08/22 09:25:44]: <0x2402> COM-PC: create session 127.0.0.1 on port 53632 id=#42228256 {5886243a}
+[02/08/22 09:26:21]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 53632 id=#42228256 {8de277f4}
+[02/08/22 09:26:30]: <0x2402> COM-PC: create session 127.0.0.1 on port 53647 id=#42227944 {09460ea5}
+[02/08/22 09:28:11]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 53647 id=#42227944 {22e3a612}
+[02/08/22 10:36:01]: ----------------------------------------------- {a87f1e50}
+[02/08/22 10:36:01]: Log partition has been repaired {2cbf88c1}
+[02/08/22 10:36:01]: <0x2402> COM-PC: create session 127.0.0.1 on port 55329 id=#42230544 {88ea4f37}
+[02/08/22 10:36:13]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 55329 id=#42230544 {8927bec7}
+[02/08/22 10:45:28]: <0x2402> COM-PC: create session 127.0.0.1 on port 55490 id=#42229504 {c536e390}
+[02/08/22 10:45:43]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 55490 id=#42229504 {04c01ed4}
+[02/08/22 10:46:03]: <0x2402> COM-PC: create session 127.0.0.1 on port 55501 id=#42227424 {09d8b6de}
+[02/08/22 10:46:33]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 55501 id=#42227424 {f46c9915}
+[02/08/22 10:46:48]: <0x2402> COM-PC: create session 127.0.0.1 on port 55521 id=#42228672 {b1f7d970}
+[02/08/22 10:48:23]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 55521 id=#42228672 {00dc3cc0}
+[02/08/22 10:49:44]: <0x2402> COM-PC: create session 127.0.0.1 on port 55590 id=#42227424 {c6908fcc}
+[02/08/22 10:51:03]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 55590 id=#42227424 {a805c190}
+[02/08/22 10:51:05]: <0x2402> COM-PC: create session 127.0.0.1 on port 55626 id=#42230336 {81ce4043}
+[02/08/22 10:51:23]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 55626 id=#42230336 {8cd5b14e}
+[02/08/22 10:53:04]: <0x2402> COM-PC: create session 127.0.0.1 on port 55664 id=#42228672 {0a9a7ffe}
+[02/08/22 10:53:53]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 55664 id=#42228672 {f68fb3f7}
+[02/08/22 10:56:49]: <0x2402> COM-PC: create session 127.0.0.1 on port 55730 id=#42228152 {e1ecf0cd}
+[02/08/22 10:57:33]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 55730 id=#42228152 {59cf62c3}
+[02/08/22 11:06:59]: <0x2402> COM-PC: create session 127.0.0.1 on port 55940 id=#42228464 {f06fab17}
+[02/08/22 11:07:14]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 55940 id=#42228464 {c309b6c7}
+[02/08/22 11:07:18]: <0x2402> COM-PC: create session 127.0.0.1 on port 55947 id=#42229400 {35c6f6be}
+[02/08/22 11:07:18]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {f12ef47d}
+[02/08/22 11:07:18]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {e6f395c8}
+[02/08/22 11:07:19]: <0x5402> TP1_Paolo application started {82f22c27}
+[02/08/22 11:07:19]: <0x5403> TP1_Paolo application stopped {3c048cd9}
+[02/08/22 11:07:19]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 55947 id=#42229400 {c91c87d6}
+[02/08/22 11:07:20]: <0x2402> Mcp = TSimulated {9667c5ca}
+[02/08/22 11:07:20]: <0x340A> Mcp communication established {68473970}
+[02/08/22 11:07:20]: <0x1802> Working mode:manual. {e562d783}
+[02/08/22 11:07:58]: <0x1803> Working mode:test. {c58c47a3}
+[02/08/22 11:08:01]: <0x1804> Working mode:remote. {5ae6b72c}
+[02/08/22 11:08:03]: <0x1801> Working mode:automatic. {58d59468}
+[02/08/22 11:08:04]: <0x1802> Working mode:manual. {ede5a1ed}
+[02/08/22 11:08:07]: <0x2401> Saving controller context... {635f8f91}
+[02/08/22 11:08:10]: <0x1803> Working mode:test. {01f4e4f1}
+[02/08/22 11:08:15]: <0x2401> Saving controller context... {ddae1ef6}
+[02/08/22 11:08:34]: <0x1804> Working mode:remote. {6785625c}
+[02/08/22 11:08:38]: <0x2401> Saving controller context... {609c2f4e}
+[02/08/22 11:08:50]: <0x1801> Working mode:automatic. {a9c32e38}
+[02/08/22 11:08:54]: <0x2401> Saving controller context... {5393c2cb}
+[02/08/22 11:09:02]: <0x5A03> Deadman validated {27dc7f32}
+[02/08/22 11:09:02]: <0x1603> Settling arm power... {09ff9517}
+[02/08/22 11:09:02]: <0x1601> Arm power settled. {1c69062c}
+[02/08/22 11:09:18]: <0x5A01> Deadman enabled. {79e37124}
+[02/08/22 11:10:47]: ----------------------------------------------- {6a5fc673}
+[02/08/22 11:10:47]: Log partition has been repaired {8248ed71}
+[02/08/22 11:10:47]: <0x2402> COM-PC: create session 127.0.0.1 on port 56020 id=#42229920 {6db7e028}
+[02/08/22 11:11:49]: <0x1604> Arm power shutdown... {d1623c0a}
+[02/08/22 11:11:50]: <0x1602> End of arm power shutdown phase. {9c94a17b}
+[02/08/22 11:11:52]: <0x5A02> Deadman disabled. {2e0c2bae}
+[02/08/22 11:11:52]: <0x2401> Saving controller context... {d7da6c23}
+[02/08/22 11:11:52]: <0x5A03> Deadman validated {231bb52a}
+[02/08/22 11:11:53]: <0x1603> Settling arm power... {1cf71c48}
+[02/08/22 11:11:53]: <0x1601> Arm power settled. {24feb6db}
+[02/08/22 11:12:09]: <0x5A01> Deadman enabled. {4fe95ac7}
+[02/08/22 11:14:05]: <0x2402> COM-PC: create session 127.0.0.1 on port 56020 id=#42227528 {9400f54e}
+[02/08/22 11:14:05]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {0ab69886}
+[02/08/22 11:14:05]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {5563f281}
+[02/08/22 11:14:05]: <0x5402> TP1_Paolo application started {8b37d9ca}
+[02/08/22 11:14:05]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 56020 id=#42227528 {d4161909}
+[02/08/22 11:15:10]: <0x5403> TP1_Paolo application stopped {011a03c7}
+[02/08/22 11:15:21]: <0x2402> COM-PC: create session 127.0.0.1 on port 56020 id=#42227632 {732ccdb7}
+[02/08/22 11:15:21]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {37f47d2b}
+[02/08/22 11:15:21]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {9fd9b17c}
+[02/08/22 11:15:22]: <0x5402> TP1_Paolo application started {e58777e9}
+[02/08/22 11:15:22]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 56020 id=#42227632 {4f04f43c}
+[02/08/22 11:15:30]: <0x5403> TP1_Paolo application stopped {164f7344}
+[02/08/22 11:15:35]: <0x2402> COM-PC: create session 127.0.0.1 on port 56020 id=#42227632 {bc2190f0}
+[02/08/22 11:15:35]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {972dbf21}
+[02/08/22 11:15:35]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {c4197767}
+[02/08/22 11:15:35]: <0x5402> TP1_Paolo application started {80f65042}
+[02/08/22 11:15:36]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 56020 id=#42227632 {255b3c2e}
+[02/08/22 11:15:45]: <0x5403> TP1_Paolo application stopped {d42be5d9}
+[02/08/22 11:16:02]: <0x2402> COM-PC: create session 127.0.0.1 on port 56020 id=#42229400 {a8ca4f33}
+[02/08/22 11:16:02]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {d791a7b3}
+[02/08/22 11:16:02]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {cb2bca40}
+[02/08/22 11:16:02]: <0x5402> TP1_Paolo application started {3cfc03f2}
+[02/08/22 11:16:02]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 56020 id=#42229400 {e8020d39}
+[02/08/22 11:16:11]: <0x5403> TP1_Paolo application stopped {e351f410}
+[02/08/22 11:16:19]: <0x2402> COM-PC: create session 127.0.0.1 on port 56020 id=#42228152 {d08c744f}
+[02/08/22 11:16:19]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {02ddae8a}
+[02/08/22 11:16:19]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {dbc59824}
+[02/08/22 11:16:19]: <0x5402> TP1_Paolo application started {f08f72d4}
+[02/08/22 11:16:19]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 56020 id=#42228152 {07c4e1a6}
+[02/08/22 11:17:16]: <0x5403> TP1_Paolo application stopped {9e761c24}
+[02/08/22 11:20:33]: <0x1604> Arm power shutdown... {6f9af896}
+[02/08/22 11:20:34]: <0x1602> End of arm power shutdown phase. {6b15e7c7}
+[02/08/22 11:20:35]: <0x5A02> Deadman disabled. {18997bac}
+[02/08/22 11:20:35]: <0x1802> Working mode:manual. {e1fa2df0}
+[02/08/22 11:20:39]: <0x2401> Saving controller context... {e1f181fe}
+[02/08/22 11:27:04]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 56020 id=#42229920 {e3d063f8}
+[02/08/22 11:28:46]: <0x2402> COM-PC: create session 127.0.0.1 on port 56366 id=#42228464 {fd318484}
+[02/08/22 11:28:55]: <0x2402> COM-PC: create session 127.0.0.1 on port 56366 id=#42230128 {600e04ac}
+[02/08/22 11:28:55]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {c1efce72}
+[02/08/22 11:28:55]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {d5795c62}
+[02/08/22 11:28:55]: <0x5402> TP1_Paolo application started {e3222a6e}
+[02/08/22 11:28:55]: <0x5404> ERR 154 Invalid movement command: invalid destination point or mdesc.. TP1_Paolo~.  {6081b8b0}
+[02/08/22 11:28:55]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 56366 id=#42230128 {27e3ea11}
+[02/08/22 11:29:02]: <0x5A03> Deadman validated {b3fd7500}
+[02/08/22 11:29:02]: <0x1603> Settling arm power... {e86c6d3e}
+[02/08/22 11:29:02]: <0x1601> Arm power settled. {90d1052d}
+[02/08/22 11:29:02]: <0x5A02> Deadman disabled. {69276b5d}
+[02/08/22 11:29:02]: <0x1627> Arm power shutdown: working mode change. {2baae40c}
+[02/08/22 11:29:02]: <0x1604> Arm power shutdown... {d17007e4}
+[02/08/22 11:29:03]: <0x1803> Working mode:test. {6b1cc5cf}
+[02/08/22 11:29:04]: <0x1602> End of arm power shutdown phase. {a243d843}
+[02/08/22 11:29:05]: <0x1801> Working mode:automatic. {7ef4e043}
+[02/08/22 11:29:09]: <0x2401> Saving controller context... {78c9b6c5}
+[02/08/22 11:29:12]: <0x5A03> Deadman validated {a43ceedc}
+[02/08/22 11:29:12]: <0x1603> Settling arm power... {bbcf58f5}
+[02/08/22 11:29:13]: <0x1601> Arm power settled. {a5a23e91}
+[02/08/22 11:29:13]: <0x1604> Arm power shutdown... {b0fb7459}
+[02/08/22 11:29:14]: <0x3F04> Cannot apply arm power: arm power is still in disabling phase. {92fc6b03}
+[02/08/22 11:29:14]: <0x1602> End of arm power shutdown phase. {e8407f98}
+[02/08/22 11:29:17]: <0x2401> Saving controller context... {1b001dd3}
+[02/08/22 11:29:18]: <0x5A02> Deadman disabled. {9d38522b}
+[02/08/22 11:29:18]: <0x5A03> Deadman validated {f6d5f702}
+[02/08/22 11:29:18]: <0x1603> Settling arm power... {01b8c588}
+[02/08/22 11:29:19]: <0x1601> Arm power settled. {5ec6b2b1}
+[02/08/22 11:29:34]: <0x5A01> Deadman enabled. {775c2a32}
+[02/08/22 11:31:01]: <0x2402> COM-PC: create session 127.0.0.1 on port 56507 id=#42227424 {d6146a95}
+[02/08/22 11:31:01]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {f9c88e43}
+[02/08/22 11:31:01]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {bbe19516}
+[02/08/22 11:31:01]: <0x5403> TP1_Paolo application stopped {8fcaee2b}
+[02/08/22 11:31:01]: <0x5402> TP1_Paolo application started {a74b8d1b}
+[02/08/22 11:31:01]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 56507 id=#42227424 {8647ab02}
+[02/08/22 11:31:01]: <0x3B06> Cannot complete move: destination is out of reach.(out of software joint limits) {ff7759cd}
+[02/08/22 11:31:01]: <0x5404> ERR 150 Robot stopped on a previous impossible movement (target out of reach, incorrect arm configuration, or singularity). TP1_Paolo~.  {e480e608}
+[02/08/22 11:32:10]: <0x2402> COM-PC: create session 127.0.0.1 on port 56530 id=#42228152 {15505072}
+[02/08/22 11:32:10]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {0ae6336b}
+[02/08/22 11:32:10]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {d007a960}
+[02/08/22 11:32:10]: <0x5403> TP1_Paolo application stopped {fc564646}
+[02/08/22 11:32:11]: <0x5402> TP1_Paolo application started {3352d7c0}
+[02/08/22 11:32:11]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 56530 id=#42228152 {8fcdde18}
+[02/08/22 11:32:11]: <0x3B06> Cannot complete move: destination is out of reach.(out of software joint limits) {51716b5b}
+[02/08/22 11:32:11]: <0x5404> ERR 150 Robot stopped on a previous impossible movement (target out of reach, incorrect arm configuration, or singularity). TP1_Paolo~.  {c12d5ab0}
+[02/08/22 11:33:54]: <0x2402> COM-PC: create session 127.0.0.1 on port 56623 id=#42229920 {5ac86977}
+[02/08/22 11:33:54]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {6dc94286}
+[02/08/22 11:33:54]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {b1182765}
+[02/08/22 11:33:54]: <0x5403> TP1_Paolo application stopped {c4f5ab19}
+[02/08/22 11:33:55]: <0x5402> TP1_Paolo application started {b6e2df89}
+[02/08/22 11:33:55]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 56623 id=#42229920 {a2231555}
+[02/08/22 11:33:55]: <0x3B06> Cannot complete move: destination is out of reach.(out of software joint limits) {f28510f7}
+[02/08/22 11:33:55]: <0x5404> ERR 150 Robot stopped on a previous impossible movement (target out of reach, incorrect arm configuration, or singularity). TP1_Paolo~.  {7ce4a3dd}
+[02/08/22 11:35:11]: <0x5A02> Deadman disabled. {b2560530}
+[02/08/22 11:35:11]: <0x1627> Arm power shutdown: working mode change. {fc81ea8f}
+[02/08/22 11:35:11]: <0x1604> Arm power shutdown... {e5d4142e}
+[02/08/22 11:35:12]: <0x1803> Working mode:test. {c51d75f7}
+[02/08/22 11:35:12]: <0x1602> End of arm power shutdown phase. {de28e23b}
+[02/08/22 11:35:13]: <0x1804> Working mode:remote. {b25ab52a}
+[02/08/22 11:35:14]: <0x5A03> Deadman validated {701a3f4c}
+[02/08/22 11:35:14]: <0x4001> Arm power enable request refused: cabinet working mode is remote or invalid. {59c1a741}
+[02/08/22 11:35:14]: <0x5A02> Deadman disabled. {ffb8beb1}
+[02/08/22 11:35:15]: <0x1801> Working mode:automatic. {af2a4066}
+[02/08/22 11:35:15]: <0x5A03> Deadman validated {c06c20a1}
+[02/08/22 11:35:18]: <0x5403> TP1_Paolo application stopped {2b1d2b88}
+[02/08/22 11:35:19]: <0x2401> Saving controller context... {6dd0fee4}
+[02/08/22 11:35:19]: <0x5A02> Deadman disabled. {d1872350}
+[02/08/22 11:35:19]: <0x5A03> Deadman validated {4c36297b}
+[02/08/22 11:35:19]: <0x1603> Settling arm power... {068f172b}
+[02/08/22 11:35:20]: <0x1601> Arm power settled. {6358293a}
+[02/08/22 11:35:24]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 56366 id=#42228464 {575dd1cb}
+[02/08/22 11:35:27]: <0x2402> COM-PC: create session 127.0.0.1 on port 56674 id=#42229400 {e5d9e7fc}
+[02/08/22 11:35:33]: <0x2402> COM-PC: create session 127.0.0.1 on port 56674 id=#42229504 {efbbbb00}
+[02/08/22 11:35:33]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {529e057d}
+[02/08/22 11:35:33]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {688bc528}
+[02/08/22 11:35:34]: <0x5402> TP1_Paolo application started {8856328e}
+[02/08/22 11:35:34]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 56674 id=#42229504 {9bce28a8}
+[02/08/22 11:35:34]: <0x3B06> Cannot complete move: destination is out of reach.(out of software joint limits) {99d0d19d}
+[02/08/22 11:35:34]: <0x5404> ERR 150 Robot stopped on a previous impossible movement (target out of reach, incorrect arm configuration, or singularity). TP1_Paolo~.  {a7428d61}
+[02/08/22 11:35:36]: <0x5A01> Deadman enabled. {b72dc0b5}
+[02/08/22 12:05:26]: <0x2401> Saving controller context... {9a8c87ae}
+[02/08/22 12:14:08]: <0x2402> COM-PC: create session 127.0.0.1 on port 59255 id=#42228984 {9e010f36}
+[02/08/22 12:14:08]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {3f65e5f2}
+[02/08/22 12:14:08]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {de2a984b}
+[02/08/22 12:14:08]: <0x5403> TP1_Paolo application stopped {3b75c490}
+[02/08/22 12:14:08]: <0x5402> TP1_Paolo application started {d561cd0c}
+[02/08/22 12:14:08]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 59255 id=#42228984 {d9e823ba}
+[02/08/22 12:14:38]: <0x5403> TP1_Paolo application stopped {6cddec6b}
+[02/08/22 12:15:04]: <0x2402> COM-PC: create session 127.0.0.1 on port 59255 id=#42228256 {c9dd84ce}
+[02/08/22 12:15:04]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {945b94fe}
+[02/08/22 12:15:04]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {9014e350}
+[02/08/22 12:15:04]: <0x5402> TP1_Paolo application started {814c712a}
+[02/08/22 12:15:04]: <0x3B06> Cannot complete move: destination is out of reach.(out of software joint limits) {ff1eb380}
+[02/08/22 12:15:04]: <0x3B06> Cannot complete move: destination is out of reach.(out of software joint limits) (1) {cf721b46}
+[02/08/22 12:15:04]: <0x5404> ERR 150 Robot stopped on a previous impossible movement (target out of reach, incorrect arm configuration, or singularity). TP1_Paolo~.  {bbb88799}
+[02/08/22 12:15:04]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 59255 id=#42228256 {48f587f9}
+[02/08/22 12:18:26]: <0x2402> COM-PC: create session 127.0.0.1 on port 59694 id=#42230336 {dacda9bf}
+[02/08/22 12:18:26]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {3d3f8fb2}
+[02/08/22 12:18:26]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {cf5dbb9d}
+[02/08/22 12:18:26]: <0x5403> TP1_Paolo application stopped {f589dea6}
+[02/08/22 12:18:26]: <0x5402> TP1_Paolo application started {2937f916}
+[02/08/22 12:18:26]: <0x3B06> Cannot complete move: destination is out of reach.(out of software joint limits) {3423f00e}
+[02/08/22 12:18:26]: <0x3B06> Cannot complete move: destination is out of reach.(out of software joint limits) (1) {04de28ed}
+[02/08/22 12:18:26]: <0x5404> ERR 150 Robot stopped on a previous impossible movement (target out of reach, incorrect arm configuration, or singularity). TP1_Paolo~.  {fc11574e}
+[02/08/22 12:18:26]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 59694 id=#42230336 {cd10f79d}
+[02/08/22 12:18:44]: <0x2402> COM-PC: create session 127.0.0.1 on port 59720 id=#42229088 {fd02a0ee}
+[02/08/22 12:18:44]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {acbf36d9}
+[02/08/22 12:18:44]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {654723f6}
+[02/08/22 12:18:44]: <0x5403> TP1_Paolo application stopped {d7a99665}
+[02/08/22 12:18:44]: <0x5402> TP1_Paolo application started {c48d739a}
+[02/08/22 12:18:44]: <0x3B06> Cannot complete move: destination is out of reach.(out of software joint limits) {ba3f96cd}
+[02/08/22 12:18:44]: <0x3B06> Cannot complete move: destination is out of reach.(out of software joint limits) (1) {ca187089}
+[02/08/22 12:18:44]: <0x5404> ERR 150 Robot stopped on a previous impossible movement (target out of reach, incorrect arm configuration, or singularity). TP1_Paolo~.  {2690278c}
+[02/08/22 12:18:44]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 59720 id=#42229088 {f1c5faaa}
+[02/08/22 12:19:08]: <0x2402> COM-PC: create session 127.0.0.1 on port 59720 id=#42228256 {bd061be6}
+[02/08/22 12:19:08]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {a7d87230}
+[02/08/22 12:19:08]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {36212620}
+[02/08/22 12:19:08]: <0x5403> TP1_Paolo application stopped {6ce397b7}
+[02/08/22 12:19:09]: <0x5402> TP1_Paolo application started {6ab3ff48}
+[02/08/22 12:19:09]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 59720 id=#42228256 {5f45744f}
+[02/08/22 12:19:38]: <0x3B06> Cannot complete move: destination is out of reach.(out of software joint limits) {7bcd1a09}
+[02/08/22 12:19:38]: <0x3B06> Cannot complete move: destination is out of reach.(out of software joint limits) (1) {6bdb869b}
+[02/08/22 12:19:38]: <0x5404> ERR 150 Robot stopped on a previous impossible movement (target out of reach, incorrect arm configuration, or singularity). TP1_Paolo~.  {1b298697}
+[02/08/22 12:20:27]: <0x2402> COM-PC: create session 127.0.0.1 on port 59720 id=#42230544 {21dc7518}
+[02/08/22 12:20:27]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {cc4fef5c}
+[02/08/22 12:20:27]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {49e4c6aa}
+[02/08/22 12:20:27]: <0x5403> TP1_Paolo application stopped {346897f5}
+[02/08/22 12:20:27]: <0x5402> TP1_Paolo application started {3294b421}
+[02/08/22 12:20:27]: <0x3B06> Cannot complete move: destination is out of reach.(out of arm workspace) {22ec426c}
+[02/08/22 12:20:27]: <0x5404> ERR 150 Robot stopped on a previous impossible movement (target out of reach, incorrect arm configuration, or singularity). TP1_Paolo~.  {64037159}
+[02/08/22 12:20:27]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 59720 id=#42230544 {513d5243}
+[02/08/22 12:20:41]: <0x2402> COM-PC: create session 127.0.0.1 on port 59720 id=#42230128 {5b9a6845}
+[02/08/22 12:20:42]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {7aa58f4c}
+[02/08/22 12:20:42]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {a89df036}
+[02/08/22 12:20:42]: <0x5403> TP1_Paolo application stopped {acdc0066}
+[02/08/22 12:20:42]: <0x5402> TP1_Paolo application started {04b4f8c1}
+[02/08/22 12:20:42]: <0x3B06> Cannot complete move: destination is out of reach.(out of arm workspace) {cda574f2}
+[02/08/22 12:20:42]: <0x5404> ERR 150 Robot stopped on a previous impossible movement (target out of reach, incorrect arm configuration, or singularity). TP1_Paolo~.  {e9029061}
+[02/08/22 12:20:42]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 59720 id=#42230128 {d31f0819}
+[02/08/22 12:21:21]: <0x2402> COM-PC: create session 127.0.0.1 on port 59720 id=#42230128 {d1b3bdd8}
+[02/08/22 12:21:21]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {a7ed097d}
+[02/08/22 12:21:21]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {6e68b684}
+[02/08/22 12:21:21]: <0x5403> TP1_Paolo application stopped {6786a6ef}
+[02/08/22 12:21:21]: <0x5402> TP1_Paolo application started {d772b904}
+[02/08/22 12:21:21]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 59720 id=#42230128 {81103be8}
+[02/08/22 12:21:36]: <0x5403> TP1_Paolo application stopped {aec5fdae}
+[02/08/22 12:21:55]: <0x2402> COM-PC: create session 127.0.0.1 on port 59720 id=#42229088 {ae72808d}
+[02/08/22 12:21:55]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {2c631631}
+[02/08/22 12:21:55]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {3842341e}
+[02/08/22 12:21:55]: <0x5402> TP1_Paolo application started {aaa358b5}
+[02/08/22 12:21:55]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 59720 id=#42229088 {f94a1cf8}
+[02/08/22 12:22:09]: <0x5403> TP1_Paolo application stopped {f05312df}
+[02/08/22 12:22:34]: <0x2402> COM-PC: create session 127.0.0.1 on port 59720 id=#42228880 {15805687}
+[02/08/22 12:22:34]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {8e3d3c7f}
+[02/08/22 12:22:34]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {899c5912}
+[02/08/22 12:22:35]: <0x5402> TP1_Paolo application started {d86d1e80}
+[02/08/22 12:22:35]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 59720 id=#42228880 {b24d0025}
+[02/08/22 12:22:45]: <0x5403> TP1_Paolo application stopped {cdfc0dff}
+[02/08/22 12:22:53]: <0x2402> COM-PC: create session 127.0.0.1 on port 59720 id=#42228672 {6726c5cc}
+[02/08/22 12:22:53]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {649c0d3e}
+[02/08/22 12:22:53]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {1fb686c3}
+[02/08/22 12:22:53]: <0x5402> TP1_Paolo application started {89005e85}
+[02/08/22 12:22:53]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 59720 id=#42228672 {27ab7a10}
+[02/08/22 12:23:03]: <0x5403> TP1_Paolo application stopped {c27727d4}
+[02/08/22 12:23:58]: <0x2402> COM-PC: create session 127.0.0.1 on port 59720 id=#42228672 {7dc5f8bc}
+[02/08/22 12:23:58]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {73ccfd3a}
+[02/08/22 12:23:58]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {fea8dea9}
+[02/08/22 12:23:59]: <0x5402> TP1_Paolo application started {0fe75468}
+[02/08/22 12:23:59]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 59720 id=#42228672 {46b49edd}
+[02/08/22 12:23:59]: <0x3B05> Cannot move: destination is out of software axis limits {f32385f8}
+[02/08/22 12:23:59]: <0x5404> ERR 150 Robot stopped on a previous impossible movement (target out of reach, incorrect arm configuration, or singularity). TP1_Paolo~.  {acf3a2de}
+[02/08/22 12:24:25]: <0x2402> COM-PC: create session 127.0.0.1 on port 59720 id=#42228152 {06e07e5c}
+[02/08/22 12:24:25]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {c4472278}
+[02/08/22 12:24:25]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {6144be72}
+[02/08/22 12:24:25]: <0x5403> TP1_Paolo application stopped {a121da6e}
+[02/08/22 12:24:25]: <0x5402> TP1_Paolo application started {05811848}
+[02/08/22 12:24:25]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 59720 id=#42228152 {561890b5}
+[02/08/22 12:24:26]: <0x3B05> Cannot move: destination is out of software axis limits {6701695f}
+[02/08/22 12:24:26]: <0x5404> ERR 150 Robot stopped on a previous impossible movement (target out of reach, incorrect arm configuration, or singularity). TP1_Paolo~.  {eefcee4a}
+[02/08/22 12:26:11]: <0x2402> COM-PC: create session 127.0.0.1 on port 60045 id=#42228152 {4045857f}
+[02/08/22 12:26:11]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {4cb725ed}
+[02/08/22 12:26:11]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {744fda9d}
+[02/08/22 12:26:11]: <0x5403> TP1_Paolo application stopped {81dd5d20}
+[02/08/22 12:26:12]: <0x5402> TP1_Paolo application started {5110c47d}
+[02/08/22 12:26:12]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 60045 id=#42228152 {d184ec4f}
+[02/08/22 12:26:12]: <0x3B05> Cannot move: destination is out of software axis limits {9a7e6f6a}
+[02/08/22 12:26:12]: <0x5404> ERR 150 Robot stopped on a previous impossible movement (target out of reach, incorrect arm configuration, or singularity). TP1_Paolo~.  {d0e88398}
+[02/08/22 12:26:34]: <0x2402> COM-PC: create session 127.0.0.1 on port 60103 id=#42230544 {02253d50}
+[02/08/22 12:26:34]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {0d5a27a2}
+[02/08/22 12:26:34]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {7e4b7a90}
+[02/08/22 12:26:35]: <0x5403> TP1_Paolo application stopped {264cf12b}
+[02/08/22 12:26:35]: <0x5402> TP1_Paolo application started {7efe4d74}
+[02/08/22 12:26:35]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 60103 id=#42230544 {702ddbd6}
+[02/08/22 12:26:36]: <0x3B05> Cannot move: destination is out of software axis limits {c146f9ce}
+[02/08/22 12:26:36]: <0x5404> ERR 150 Robot stopped on a previous impossible movement (target out of reach, incorrect arm configuration, or singularity). TP1_Paolo~.  {ab6a45fe}
+[02/08/22 12:27:06]: <0x2402> COM-PC: create session 127.0.0.1 on port 60129 id=#42228672 {4b9fe526}
+[02/08/22 12:27:06]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {41b2f8c3}
+[02/08/22 12:27:06]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {05101ea0}
+[02/08/22 12:27:06]: <0x5403> TP1_Paolo application stopped {dac8cd94}
+[02/08/22 12:27:07]: <0x5402> TP1_Paolo application started {60c56fdd}
+[02/08/22 12:27:07]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 60129 id=#42228672 {2701b149}
+[02/08/22 12:27:07]: <0x3B05> Cannot move: destination is out of software axis limits {60a22bc7}
+[02/08/22 12:27:07]: <0x5404> ERR 150 Robot stopped on a previous impossible movement (target out of reach, incorrect arm configuration, or singularity). TP1_Paolo~.  {90e476f3}
+[02/08/22 12:29:31]: <0x2402> COM-PC: create session 127.0.0.1 on port 60303 id=#42228672 {35fdf514}
+[02/08/22 12:29:31]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {925227f0}
+[02/08/22 12:29:31]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {fd99ee10}
+[02/08/22 12:29:31]: <0x5403> TP1_Paolo application stopped {565be620}
+[02/08/22 12:29:31]: <0x5402> TP1_Paolo application started {0932c1a4}
+[02/08/22 12:29:31]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 60303 id=#42228672 {658756be}
+[02/08/22 12:29:41]: <0x5403> TP1_Paolo application stopped {c29a7aff}
+[02/08/22 12:29:57]: <0x2402> COM-PC: create session 127.0.0.1 on port 60303 id=#42227424 {bd4563f1}
+[02/08/22 12:29:57]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {72999c38}
+[02/08/22 12:29:57]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {a5ed3a8c}
+[02/08/22 12:29:58]: <0x5402> TP1_Paolo application started {7b938456}
+[02/08/22 12:29:58]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 60303 id=#42227424 {c8f7983c}
+[02/08/22 12:30:07]: <0x5403> TP1_Paolo application stopped {b051567a}
+[02/08/22 12:34:33]: <0x2402> COM-PC: create session 127.0.0.1 on port 60932 id=#42227736 {5ae9f37e}
+[02/08/22 12:34:33]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {2fa928b8}
+[02/08/22 12:34:33]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {fd679391}
+[02/08/22 12:34:33]: <0x5402> TP1_Paolo application started {53d861af}
+[02/08/22 12:34:33]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 60932 id=#42227736 {9cab518f}
+[02/08/22 12:34:43]: <0x5403> TP1_Paolo application stopped {87be6ad6}
+[02/08/22 12:35:09]: <0x2402> COM-PC: create session 127.0.0.1 on port 60936 id=#42230128 {8a98f019}
+[02/08/22 12:35:09]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {08a91569}
+[02/08/22 12:35:09]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {ef047574}
+[02/08/22 12:35:10]: <0x5402> TP1_Paolo application started {1fd96112}
+[02/08/22 12:35:10]: <0x5404> ERR 20 Access to an array with index larger than the array's size.. TP1_Paolo~.  {b447ae23}
+[02/08/22 12:35:10]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 60936 id=#42230128 {a12a310a}
+[02/08/22 12:35:35]: <0x2401> Saving controller context... {c81177a0}
+[02/08/22 12:36:01]: <0x2402> COM-PC: create session 127.0.0.1 on port 60936 id=#42230440 {19f046bf}
+[02/08/22 12:36:01]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {b3d1818a}
+[02/08/22 12:36:01]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {18f2dd64}
+[02/08/22 12:36:02]: <0x5403> TP1_Paolo application stopped {cafe5e60}
+[02/08/22 12:36:02]: <0x5402> TP1_Paolo application started {5e18db89}
+[02/08/22 12:36:02]: <0x5404> ERR 20 Access to an array with index larger than the array's size.. TP1_Paolo~.  {11797d72}
+[02/08/22 12:36:02]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 60936 id=#42230440 {4b007db1}
+[02/08/22 12:36:21]: <0x2402> COM-PC: create session 127.0.0.1 on port 60936 id=#42228880 {cbbebd0a}
+[02/08/22 12:36:21]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {b5eb1fdd}
+[02/08/22 12:36:21]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {87832ee6}
+[02/08/22 12:36:21]: <0x5403> TP1_Paolo application stopped {afce0606}
+[02/08/22 12:36:21]: <0x5402> TP1_Paolo application started {f970d18c}
+[02/08/22 12:36:21]: <0x5404> ERR 20 Access to an array with index larger than the array's size.. TP1_Paolo~.  {047b957e}
+[02/08/22 12:36:21]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 60936 id=#42228880 {ab73866e}
+[02/08/22 12:36:53]: <0x2402> COM-PC: create session 127.0.0.1 on port 61018 id=#42228880 {5ecbc63c}
+[02/08/22 12:36:53]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {16d0132f}
+[02/08/22 12:36:53]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {16ec878d}
+[02/08/22 12:36:53]: <0x5403> TP1_Paolo application stopped {7cb33bf1}
+[02/08/22 12:36:53]: <0x5402> TP1_Paolo application started {cf71ae59}
+[02/08/22 12:36:53]: <0x3B06> Cannot complete move: destination is out of reach.(out of software joint limits) {ffcfcd2f}
+[02/08/22 12:36:53]: <0x5404> ERR 150 Robot stopped on a previous impossible movement (target out of reach, incorrect arm configuration, or singularity). TP1_Paolo~.  {1e07708b}
+[02/08/22 12:36:53]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 61018 id=#42228880 {b9f4022e}
+[02/08/22 12:37:03]: <0x2402> COM-PC: create session 127.0.0.1 on port 61048 id=#42229712 {1193d6bd}
+[02/08/22 12:37:03]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {b7a783e7}
+[02/08/22 12:37:03]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {18ddcc32}
+[02/08/22 12:37:03]: <0x5403> TP1_Paolo application stopped {a592df90}
+[02/08/22 12:37:04]: <0x5402> TP1_Paolo application started {673fc250}
+[02/08/22 12:37:04]: <0x3B06> Cannot complete move: destination is out of reach.(out of software joint limits) {710184a3}
+[02/08/22 12:37:04]: <0x5404> ERR 150 Robot stopped on a previous impossible movement (target out of reach, incorrect arm configuration, or singularity). TP1_Paolo~.  {9c87c7e5}
+[02/08/22 12:37:04]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 61048 id=#42229712 {52952cf6}
+[02/08/22 12:37:20]: <0x2402> COM-PC: create session 127.0.0.1 on port 61067 id=#42228672 {38f2b40f}
+[02/08/22 12:37:20]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {e16c46ff}
+[02/08/22 12:37:20]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {7c9e1ee6}
+[02/08/22 12:37:20]: <0x5403> TP1_Paolo application stopped {f7f2aa94}
+[02/08/22 12:37:20]: <0x5402> TP1_Paolo application started {6b71c468}
+[02/08/22 12:37:20]: <0x3B06> Cannot complete move: destination is out of reach.(out of software joint limits) {f76f6d41}
+[02/08/22 12:37:20]: <0x5404> ERR 150 Robot stopped on a previous impossible movement (target out of reach, incorrect arm configuration, or singularity). TP1_Paolo~.  {7a16134f}
+[02/08/22 12:37:20]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 61067 id=#42228672 {df5553c4}
+[02/08/22 12:38:12]: <0x2402> COM-PC: create session 127.0.0.1 on port 61067 id=#42227424 {46bdeb47}
+[02/08/22 12:38:12]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {b9014d01}
+[02/08/22 12:38:12]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {c0052735}
+[02/08/22 12:38:13]: <0x5403> TP1_Paolo application stopped {e453924d}
+[02/08/22 12:38:13]: <0x5402> TP1_Paolo application started {770caddf}
+[02/08/22 12:38:13]: <0x3B06> Cannot complete move: destination is out of reach.(out of software joint limits) {10a37cad}
+[02/08/22 12:38:13]: <0x5404> ERR 150 Robot stopped on a previous impossible movement (target out of reach, incorrect arm configuration, or singularity). TP1_Paolo~.  {4a6ab244}
+[02/08/22 12:38:13]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 61067 id=#42227424 {43fc534e}
+[02/08/22 12:39:20]: <0x2402> COM-PC: create session 127.0.0.1 on port 61187 id=#42228256 {6cccf11e}
+[02/08/22 12:39:21]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {1c3433c5}
+[02/08/22 12:39:21]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {3478d540}
+[02/08/22 12:39:21]: <0x5403> TP1_Paolo application stopped {897bfdb6}
+[02/08/22 12:39:21]: <0x5402> TP1_Paolo application started {30442871}
+[02/08/22 12:39:21]: <0x3B06> Cannot complete move: destination is out of reach.(out of software joint limits) {4026a999}
+[02/08/22 12:39:21]: <0x5404> ERR 150 Robot stopped on a previous impossible movement (target out of reach, incorrect arm configuration, or singularity). TP1_Paolo~.  {69eb37b5}
+[02/08/22 12:39:21]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 61187 id=#42228256 {062bc34e}
+[02/08/22 12:40:04]: ----------------------------------------------- {d3584f8d}
+[02/08/22 12:40:04]: Log partition has been repaired {9a981b7b}
+[02/08/22 12:40:04]: <0x5403> TP1_Paolo application stopped {2042219b}
+[02/08/22 12:40:08]: <0x2402> COM-PC: create session 127.0.0.1 on port 61204 id=#42229088 {d7ec4811}
+[02/08/22 12:40:08]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {b582d4eb}
+[02/08/22 12:40:08]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {b819b674}
+[02/08/22 12:40:08]: <0x5402> TP1_Paolo application started {88b311df}
+[02/08/22 12:40:08]: <0x3B06> Cannot complete move: destination is out of reach.(out of software joint limits) {a22950dd}
+[02/08/22 12:40:08]: <0x5404> ERR 150 Robot stopped on a previous impossible movement (target out of reach, incorrect arm configuration, or singularity). TP1_Paolo~.  {29b98330}
+[02/08/22 12:40:08]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 61204 id=#42229088 {77ff30cf}
+[02/08/22 12:53:32]: <0x2402> COM-PC: create session 127.0.0.1 on port 62980 id=#42230544 {3b365cda}
+[02/08/22 12:53:32]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {3fea8dc0}
+[02/08/22 12:53:32]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {65fea4a3}
+[02/08/22 12:53:32]: <0x5403> TP1_Paolo application stopped {0cb8d32b}
+[02/08/22 12:53:32]: <0x5405> (File start.pgx-line 41) 'carre' : undefined program {6db5e00b}
+[02/08/22 12:53:32]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 62980 id=#42230544 {4bfdb0e4}
+[02/08/22 12:54:18]: <0x2402> COM-PC: create session 127.0.0.1 on port 63048 id=#42228256 {bd2dc238}
+[02/08/22 12:54:18]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {bbdd1477}
+[02/08/22 12:54:18]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {c1697ebe}
+[02/08/22 12:54:18]: <0x5402> TP1_Paolo application started {541a3b2d}
+[02/08/22 12:54:18]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 63048 id=#42228256 {fd92395b}
+[02/08/22 12:54:28]: <0x5403> TP1_Paolo application stopped {230c131a}
+[02/08/22 12:57:01]: <0x2402> COM-PC: create session 127.0.0.1 on port 63265 id=#42230544 {5cf46efb}
+[02/08/22 12:57:01]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {40dc2088}
+[02/08/22 12:57:01]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {9157c225}
+[02/08/22 12:57:02]: <0x5402> TP1_Paolo application started {e0a759cf}
+[02/08/22 12:57:02]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 63265 id=#42230544 {f64e1708}
+[02/08/22 12:57:02]: <0x3B06> Cannot complete move: destination is out of reach.(out of software joint limits) {0c1874e6}
+[02/08/22 12:57:02]: <0x5404> ERR 150 Robot stopped on a previous impossible movement (target out of reach, incorrect arm configuration, or singularity). TP1_Paolo~.  {c1f86370}
+[02/08/22 12:57:56]: <0x2402> COM-PC: create session 127.0.0.1 on port 63265 id=#42228672 {4cb1dcc1}
+[02/08/22 12:57:56]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {7cb0a343}
+[02/08/22 12:57:56]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {cd069065}
+[02/08/22 12:57:56]: <0x5403> TP1_Paolo application stopped {b0175165}
+[02/08/22 12:57:57]: <0x5402> TP1_Paolo application started {51690750}
+[02/08/22 12:57:57]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 63265 id=#42228672 {79598840}
+[02/08/22 12:58:06]: <0x5403> TP1_Paolo application stopped {41488121}
+[02/08/22 12:58:36]: <0x2402> COM-PC: create session 127.0.0.1 on port 63265 id=#42230544 {6ffa295e}
+[02/08/22 12:58:36]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {2b949484}
+[02/08/22 12:58:36]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {77b512c8}
+[02/08/22 12:58:36]: <0x5402> TP1_Paolo application started {61ff05b1}
+[02/08/22 12:58:36]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 63265 id=#42230544 {af1b9857}
+[02/08/22 12:58:41]: <0x5403> TP1_Paolo application stopped {794ca044}
+[02/08/22 12:58:49]: <0x2402> COM-PC: create session 127.0.0.1 on port 63265 id=#42228256 {cb13f06d}
+[02/08/22 12:58:49]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {730ab28b}
+[02/08/22 12:58:49]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {90375c46}
+[02/08/22 12:58:49]: <0x5402> TP1_Paolo application started {76d1ad6b}
+[02/08/22 12:58:49]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 63265 id=#42228256 {8be70372}
+[02/08/22 12:58:54]: <0x5403> TP1_Paolo application stopped {01c7e0d5}
+[02/08/22 12:58:59]: <0x2402> COM-PC: create session 127.0.0.1 on port 63265 id=#42230544 {8a47b68b}
+[02/08/22 12:58:59]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {730bd57e}
+[02/08/22 12:58:59]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {6e258d2a}
+[02/08/22 12:58:59]: <0x5402> TP1_Paolo application started {fc4573fa}
+[02/08/22 12:58:59]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 63265 id=#42230544 {cad6b4c2}
+[02/08/22 12:59:11]: <0x5403> TP1_Paolo application stopped {55239eba}
+[02/08/22 13:00:22]: <0x2402> COM-PC: create session 127.0.0.1 on port 63353 id=#42227736 {d287ea59}
+[02/08/22 13:00:22]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {3cb846bc}
+[02/08/22 13:00:22]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {f29fb0c5}
+[02/08/22 13:00:22]: <0x5402> TP1_Paolo application started {aadbb152}
+[02/08/22 13:00:22]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 63353 id=#42227736 {a5b590de}
+[02/08/22 13:00:32]: <0x5403> TP1_Paolo application stopped {0bf5a04b}
+[02/08/22 13:00:40]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 56674 id=#42229400 {d22d4f57}
+[02/14/22 08:18:50]: ----------------------------------------------- {0d397aac}
+[02/14/22 08:18:50]: Logger started (1048576) {814baa70}
+[02/14/22 08:18:54]: <0x0003> CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ? {df961798}
+[02/14/22 08:18:54]: <0x0003> Cycle time set to 0.004s {15b43af5}
+[02/14/22 08:18:54]: <0x0003> Simulation cycle time set to 0.1s {eee67e2b}
+[02/14/22 08:18:54]: <0x0002> Controller IP address could not be updated {3dbbf491}
+[02/14/22 08:18:54]: <0x0003> Mcp = TSimulated {ff752358}
+[02/14/22 08:18:54]: <0x340A> Mcp communication established {3090c63f}
+[02/14/22 08:18:54]: <0x0002> Default user payload used. {52de656f}
+[02/14/22 08:18:54]: <0x0003> Payload default: mass=6 kg, gravity center: x=0 y=0 z=97 mm, inertia=0 {e655e99f}
+[02/14/22 08:18:54]: <0x2401> Power hour count = 1:11:01 {f0316162}
+[02/14/22 08:18:54]: <0x2401> Mac Address = 64-00-6a-68-86-2b {26267687}
+[02/14/22 08:18:54]: <0x0003> COM-PC: server created on all interfaces [851] {480c53f9}
+[02/14/22 08:18:54]: <0x2402> History handler has been connected to IHM {6d2d6e84}
+[02/14/22 08:18:54]: <0x2401> System: s7.9 Dec 10 2015 {734023f9}
+[02/14/22 08:18:54]: <0x2401> Configuration Version: c1.032  {f1e97587}
+[02/14/22 08:18:54]: <0x2401> CPU: TEKNOR  {3273c522}
+[02/14/22 08:18:54]: <0x2401> Option testMode: enabled  {edbf8f69}
+[02/14/22 08:18:54]: <0x2401> Option VAL 3: enabled  {dd1fd95f}
+[02/14/22 08:18:54]: <0x2401> Machine Number: ?  {41edbfac}
+[02/14/22 08:18:54]: <0x2401> Arm: tx90-S1-R6 floor {fee684c8}
+[02/14/22 08:18:54]: <0x2401> Arm serial number: ?  {08933a41}
+[02/14/22 08:18:54]: <0x2401> Robot name:   {b0af9f66}
+[02/14/22 08:18:54]: <0x2401> EP: s7.9 Dec  8 2015 {5af3c426}
+[02/14/22 08:18:54]: <0x2401> EP10: s7.9 Dec  8 2015 {9e7c3516}
+[02/14/22 08:18:54]: <0x2401> SCA: s7.9 Dec  8 2015 {868c1cc1}
+[02/14/22 08:18:54]: <0x2201> New profile : default {8a24e365}
+[02/14/22 08:18:54]: <0x2401> End of controller initialization {f1dea2d9}
+[02/14/22 08:18:54]: <0x2402> COM-PC: create session 127.0.0.1 on port 56452 id=#45120464 {4614a742}
+[02/14/22 08:18:54]: <0x1801> Working mode:automatic. {4d307332}
+[02/14/22 08:18:55]: <0x1602> End of arm power shutdown phase. {366bc7b6}
+[02/14/22 08:19:11]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 56452 id=#45120464 {124f1f16}
+[02/14/22 08:39:00]: <0x2402> COM-PC: create session 127.0.0.1 on port 56962 id=#45121504 {a3a16773}
+[02/14/22 08:39:32]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 56962 id=#45121504 {7c419047}
+[02/14/22 08:39:36]: <0x2402> COM-PC: create session 127.0.0.1 on port 56976 id=#45120048 {025ea15d}
+[02/14/22 08:40:22]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 56976 id=#45120048 {d60a45f1}
+[02/14/22 08:41:04]: <0x2402> COM-PC: create session 127.0.0.1 on port 57001 id=#45121296 {0c9c5428}
+[02/14/22 08:41:52]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 57001 id=#45121296 {0d34109e}
+[02/14/22 08:41:53]: <0x2402> COM-PC: create session 127.0.0.1 on port 57017 id=#45121504 {bdb1e915}
+[02/14/22 08:42:22]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 57017 id=#45121504 {bad22b26}
+[02/15/22 14:17:27]: ----------------------------------------------- {93b8e4ab}
+[02/15/22 14:17:27]: Logger started (1048576) {bca13964}
+[02/15/22 14:17:31]: <0x0003> CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ? {1541671b}
+[02/15/22 14:17:31]: <0x0003> Cycle time set to 0.004s {f54897d2}
+[02/15/22 14:17:31]: <0x0003> Simulation cycle time set to 0.1s {8109c780}
+[02/15/22 14:17:31]: <0x0002> Controller IP address could not be updated {c741a470}
+[02/15/22 14:17:31]: <0x0003> Mcp = TSimulated {2916011a}
+[02/15/22 14:17:31]: <0x340A> Mcp communication established {6caacf16}
+[02/15/22 14:17:31]: <0x0002> Default user payload used. {c96c3bb3}
+[02/15/22 14:17:31]: <0x0003> Payload default: mass=6 kg, gravity center: x=0 y=0 z=97 mm, inertia=0 {a5390a95}
+[02/15/22 14:17:31]: <0x2401> Power hour count = 1:11:01 {7c3a32f9}
+[02/15/22 14:17:31]: <0x2401> Mac Address = 64-00-6a-97-76-54 {638adfae}
+[02/15/22 14:17:31]: <0x0003> COM-PC: server created on all interfaces [851] {a4a260c7}
+[02/15/22 14:17:31]: <0x2402> History handler has been connected to IHM {de4498fb}
+[02/15/22 14:17:31]: <0x2401> System: s7.9 Dec 10 2015 {2e3d7c68}
+[02/15/22 14:17:31]: <0x2401> Configuration Version: c1.032  {cfb5eda5}
+[02/15/22 14:17:31]: <0x2401> CPU: TEKNOR  {69bd72ec}
+[02/15/22 14:17:31]: <0x2401> Option testMode: enabled  {d7501261}
+[02/15/22 14:17:31]: <0x2401> Option VAL 3: enabled  {c73b58c4}
+[02/15/22 14:17:31]: <0x2401> Machine Number: ?  {a810be11}
+[02/15/22 14:17:31]: <0x2401> Arm: tx90-S1-R6 floor {328e1410}
+[02/15/22 14:17:31]: <0x2401> Arm serial number: ?  {ec36ca2e}
+[02/15/22 14:17:31]: <0x2401> Robot name:   {af90cd2e}
+[02/15/22 14:17:31]: <0x2401> EP: s7.9 Dec  8 2015 {22df8ff1}
+[02/15/22 14:17:31]: <0x2401> EP10: s7.9 Dec  8 2015 {7ef7861d}
+[02/15/22 14:17:31]: <0x2401> SCA: s7.9 Dec  8 2015 {eb585bba}
+[02/15/22 14:17:31]: <0x2201> New profile : default {8cbb760c}
+[02/15/22 14:17:31]: <0x2401> End of controller initialization {6fab504b}
+[02/15/22 14:17:31]: <0x2402> COM-PC: create session 127.0.0.1 on port 49970 id=#45645824 {36211eed}
+[02/15/22 14:17:31]: <0x1801> Working mode:automatic. {902e4e26}
+[02/15/22 14:17:32]: <0x1602> End of arm power shutdown phase. {29716014}
+[02/15/22 14:17:36]: <0x2401> Saving controller context... {75ad9bf8}
+[02/15/22 14:17:36]: <0x2402> Controller temperature: 28°C {7dd879f3}
+[02/15/22 14:17:36]: <0x2402> CPU temperature: 28°C {1575abab}
+[02/15/22 14:17:51]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 49970 id=#45645824 {2d90df10}
+[04/15/22 13:49:14]: ----------------------------------------------- {6eb29576}
+[04/15/22 13:49:14]: Logger started (1048576) {28cf533d}
+[04/15/22 13:49:18]: <0x0003> CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ? {3e8b4c47}
+[04/15/22 13:49:18]: <0x0003> Cycle time set to 0.004s {9aec6d73}
+[04/15/22 13:49:18]: <0x0003> Simulation cycle time set to 0.1s {5fb79951}
+[04/15/22 13:49:18]: <0x0002> Controller IP address could not be updated {94ba7829}
+[04/15/22 13:49:18]: <0x0002> Default user payload used. {38cdc806}
+[04/15/22 13:49:18]: <0x0003> Payload default: mass=6 kg, gravity center: x=0 y=0 z=97 mm, inertia=0 {e1971508}
+[04/15/22 13:49:18]: <0x2401> Power hour count = 1:11:01 {d3b60607}
+[04/15/22 13:49:18]: <0x2401> Mac Address = e8-39-35-63-0a-07 {6fcbcb94}
+[04/15/22 13:49:18]: <0x0003> Mcp = TSimulated {4ea85128}
+[04/15/22 13:49:18]: <0x340A> Mcp communication established {3683e1ff}
+[04/15/22 13:49:18]: <0x0003> COM-PC: server created on all interfaces [851] {e91f7f7a}
+[04/15/22 13:49:18]: <0x2402> History handler has been connected to IHM {abdc2e99}
+[04/15/22 13:49:18]: <0x2401> System: s7.9 Dec 10 2015 {7d8f1645}
+[04/15/22 13:49:18]: <0x2401> Configuration Version: c1.032  {bb3d0ada}
+[04/15/22 13:49:18]: <0x2401> CPU: TEKNOR  {949333b0}
+[04/15/22 13:49:18]: <0x2401> Option testMode: enabled  {a50b1ae5}
+[04/15/22 13:49:18]: <0x2401> Option VAL 3: enabled  {228fd784}
+[04/15/22 13:49:18]: <0x2401> Machine Number: ?  {c3d1b977}
+[04/15/22 13:49:18]: <0x2401> Arm: tx90-S1-R6 floor {06f68a67}
+[04/15/22 13:49:18]: <0x2401> Arm serial number: ?  {2cea2342}
+[04/15/22 13:49:18]: <0x2401> Robot name:   {f547eadc}
+[04/15/22 13:49:18]: <0x2401> EP: s7.9 Dec  8 2015 {a43ddeda}
+[04/15/22 13:49:18]: <0x2401> EP10: s7.9 Dec  8 2015 {d716833f}
+[04/15/22 13:49:18]: <0x2401> SCA: s7.9 Dec  8 2015 {19876c75}
+[04/15/22 13:49:18]: <0x2201> New profile : default {d186239c}
+[04/15/22 13:49:18]: <0x2401> End of controller initialization {8075eec3}
+[04/15/22 13:49:18]: <0x1801> Working mode:automatic. {8da3caad}
+[04/15/22 13:49:18]: <0x2402> COM-PC: create session 127.0.0.1 on port 55858 id=#46152224 {07ac6b84}
+[04/15/22 13:49:19]: <0x1602> End of arm power shutdown phase. {58040bec}
+[04/15/22 13:49:23]: <0x2401> Saving controller context... {4049a324}
+[04/15/22 13:49:23]: <0x2402> Controller temperature: 28°C {1886886c}
+[04/15/22 13:49:23]: <0x2402> CPU temperature: 28°C {e009a55f}
+[04/15/22 13:49:39]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 55858 id=#46152224 {367c0621}
+[06/09/22 15:29:28]: ----------------------------------------------- {4d93f3a5}
+[06/09/22 15:29:28]: Logger started (1048576) {9ab6140f}
+[06/09/22 15:29:32]: <0x0003> CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ? {9aac4688}
+[06/09/22 15:29:32]: <0x0003> Cycle time set to 0.004s {08dae91d}
+[06/09/22 15:29:32]: <0x0003> Simulation cycle time set to 0.1s {0c80009b}
+[06/09/22 15:29:32]: <0x0002> Controller IP address could not be updated {6807fd74}
+[06/09/22 15:29:32]: <0x0002> Default user payload used. {69fa7e0f}
+[06/09/22 15:29:32]: <0x0003> Payload default: mass=6 kg, gravity center: x=0 y=0 z=97 mm, inertia=0 {2001d9ba}
+[06/09/22 15:29:32]: <0x2401> Power hour count = 1:11:01 {d89ec598}
+[06/09/22 15:29:32]: <0x2401> Mac Address = e8-39-35-63-0a-07 {2644adf2}
+[06/09/22 15:29:32]: <0x0003> COM-PC: server created on all interfaces [851] {9743c817}
+[06/09/22 15:29:32]: <0x2402> History handler has been connected to IHM {29c8e8eb}
+[06/09/22 15:29:32]: <0x2401> System: s7.9 Dec 10 2015 {a0d9ffb5}
+[06/09/22 15:29:32]: <0x2401> Configuration Version: c1.032  {811a4732}
+[06/09/22 15:29:32]: <0x2401> CPU: TEKNOR  {e3c94504}
+[06/09/22 15:29:32]: <0x2401> Option testMode: enabled  {9a2c4ff5}
+[06/09/22 15:29:32]: <0x2401> Option VAL 3: enabled  {aa6d02cf}
+[06/09/22 15:29:32]: <0x2401> Machine Number: ?  {0e6cb5d8}
+[06/09/22 15:29:32]: <0x2401> Arm: tx90-S1-R6 floor {01237960}
+[06/09/22 15:29:32]: <0x2401> Arm serial number: ?  {61450c3e}
+[06/09/22 15:29:32]: <0x2401> Robot name:   {4405cc23}
+[06/09/22 15:29:32]: <0x2401> EP: s7.9 Dec  8 2015 {2b0e5856}
+[06/09/22 15:29:32]: <0x2401> EP10: s7.9 Dec  8 2015 {ace8ac32}
+[06/09/22 15:29:32]: <0x2401> SCA: s7.9 Dec  8 2015 {6baa60d3}
+[06/09/22 15:29:32]: <0x2201> New profile : default {7529cfba}
+[06/09/22 15:29:32]: <0x2401> End of controller initialization {d958ea19}
+[06/09/22 15:29:32]: <0x2402> COM-PC: create session 127.0.0.1 on port 65142 id=#45822256 {0e165a14}
+[06/09/22 15:29:32]: <0x2402> Mcp = TSimulated {a492ed62}
+[06/09/22 15:29:32]: <0x340A> Mcp communication established {39bd4d77}
+[06/09/22 15:29:33]: <0x1801> Working mode:automatic. {b19483d7}
+[06/09/22 15:29:33]: <0x1602> End of arm power shutdown phase. {883f286e}
+[06/09/22 15:30:02]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 65142 id=#45822256 {8d1fdc88}
+[06/09/22 15:33:54]: <0x2402> COM-PC: create session 127.0.0.1 on port 65172 id=#45823192 {536483b1}
+[06/09/22 15:34:06]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 65172 id=#45823192 {0f1e6a5f}
+[06/09/22 15:34:49]: <0x2402> COM-PC: create session 127.0.0.1 on port 65185 id=#45823712 {836c73ba}
+[06/09/22 15:34:55]: <0x2402> COM-PC: create session 127.0.0.1 on port 65185 id=#45821112 {71f9f36d}
+[06/09/22 15:34:56]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {a9946704}
+[06/09/22 15:34:56]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {ef558c46}
+[06/09/22 15:34:56]: <0x5405> (File start.pgx-line 9) 'lib' : Invalid library identifier {559d04ba}
+[06/09/22 15:34:56]: <0x5405> (File start.pgx-line 10) 'lib' : Invalid library identifier {6594e6ca}
+[06/09/22 15:34:56]: <0x5405> (File start.pgx-line 11) 'lib' : Invalid library identifier {756b0e2d}
+[06/09/22 15:34:56]: <0x5405> (File start.pgx-line 12) 'lib' : Invalid library identifier {05d11e77}
+[06/09/22 15:34:56]: <0x5405> (File start.pgx-line 13) 'lib' : Invalid library identifier {1560c6b5}
+[06/09/22 15:34:56]: <0x5405> (File start.pgx-line 15) 'l_nExecCond' : invalid name {25cf52a1}
+[06/09/22 15:34:56]: <0x5405> (File start.pgx-line 19) 'l_pTgtPos' : invalid name {351a6e4e}
+[06/09/22 15:34:56]: <0x5405> (File start.pgx-line 20) 'l_pTgtPos' : invalid name {c520fb58}
+[06/09/22 15:34:56]: <0x5405> (File start.pgx-line 21) 'l_pTgtPos' : invalid name {d5147480}
+[06/09/22 15:34:56]: <0x5405> (File start.pgx-line 22) 'l_pTgtPos' : invalid name {522d469d}
+[06/09/22 15:34:56]: <0x5405> (File start.pgx-line 23) 'lib:keyCnvtZYXtoXYZ' : undefined program {62c62510}
+[06/09/22 15:34:56]: <0x5405> (File start.pgx-line 24) 'l_pTgtPos' : invalid name {72295992}
+[06/09/22 15:34:56]: <0x5405> (File start.pgx-line 31) 'lib:keySendStr' : undefined program {02868a56}
+[06/09/22 15:34:56]: <0x5405> (File start.pgx-line 32) 'lib:keyRecvStr' : undefined program {12abb255}
+[06/09/22 15:34:56]: <0x5405> (File start.pgx-line 33) 'l_sStr' : invalid name {22723d6d}
+[06/09/22 15:34:56]: <0x5405> (File start.pgx-line 35) endIf does not match if else {71ea6b42}
+[06/09/22 15:34:56]: <0x5405> (File start.pgx-line 37) 'lib:keyRecvStr' : undefined program {618740e1}
+[06/09/22 15:34:56]: <0x5405> (File start.pgx-line 38) 'l_nIdx' : invalid name {51b91139}
+[06/09/22 15:34:56]: <0x5405> (File start.pgx-line 40) 'l_sStr' : invalid name {41db2eb7}
+[06/09/22 15:34:56]: <0x5405> (File start.pgx-line 41) 'l_nIdx' : invalid name {316dde7e}
+[06/09/22 15:34:56]: <0x5405> (File start.pgx-line 42) 'l_sStr' : invalid name {2151bbb7}
+[06/09/22 15:34:56]: <0x5405> (File start.pgx-line 45) 'l_nPrm' : invalid name {114a53f9}
+[06/09/22 15:34:56]: <0x5405> (File start.pgx-line 47) 'l_pTgtPos' : invalid name {01e94fae}
+[06/09/22 15:34:56]: <0x5405> (File start.pgx-line 48) 'l_pTgtPos' : invalid name {f127dff9}
+[06/09/22 15:34:56]: <0x5405> (File start.pgx-line 49) 'l_pTgtPos' : invalid name {e11b1b59}
+[06/09/22 15:34:56]: <0x5405> (File start.pgx-line 50) 'l_pTgtPos' : invalid name {66b382c2}
+[06/09/22 15:34:56]: <0x5405> (File start.pgx-line 51) 'lib:keyCnvtZYXtoXYZ' : undefined program {5659f750}
+[06/09/22 15:34:56]: <0x5405> (File start.pgx-line 52) 'l_pTgtPos' : invalid name {46eabc8a}
+[06/09/22 15:34:56]: <0x5405> (File start.pgx-line 54) endIf does not match if else {3659536d}
+[06/09/22 15:34:56]: <0x5405> (File start.pgx-line 59) 'do' without 'until' {2669a427}
+[06/09/22 15:34:56]: <0x1A03> System event INTERFACE-Stopped  (Events logger) {ac02c078}
+[06/09/22 15:34:56]: <0x1A04> System event INTERFACE-Stopped  (Events logger). 2 events lost. {1f70b840}
+[06/09/22 15:34:56]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 65185 id=#45821112 {df372f32}
+[06/09/22 15:36:19]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 65185 id=#45823712 {52665f02}
+[06/09/22 15:37:04]: ----------------------------------------------- {5da469d8}
+[06/09/22 15:37:04]: Logger started (1048576) {548749cd}
+[06/09/22 15:37:08]: <0x0003> CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ? {c676cc99}
+[06/09/22 15:37:08]: <0x0003> Cycle time set to 0.004s {f8b3faed}
+[06/09/22 15:37:08]: <0x0003> Simulation cycle time set to 0.1s {c1b4ac2c}
+[06/09/22 15:37:08]: <0x0002> Controller IP address could not be updated {42f1d90f}
+[06/09/22 15:37:08]: <0x0003> Mcp = TSimulated {a752fe8b}
+[06/09/22 15:37:08]: <0x340A> Mcp communication established {d79d7d8a}
+[06/09/22 15:37:08]: <0x0002> Default user payload used. {a3e2eef6}
+[06/09/22 15:37:08]: <0x0003> Payload default: mass=6 kg, gravity center: x=0 y=0 z=97 mm, inertia=0 {803c2f28}
+[06/09/22 15:37:08]: <0x2401> Power hour count = 1:11:01 {39f04133}
+[06/09/22 15:37:08]: <0x2401> Mac Address = e8-39-35-63-0a-07 {a53e9312}
+[06/09/22 15:37:08]: <0x0003> COM-PC: server created on all interfaces [851] {7a9c3dec}
+[06/09/22 15:37:08]: <0x2402> History handler has been connected to IHM {6a4c9e00}
+[06/09/22 15:37:08]: <0x2401> System: s7.9 Dec 10 2015 {a0d4fe9d}
+[06/09/22 15:37:08]: <0x2401> Configuration Version: c1.032  {135cfc31}
+[06/09/22 15:37:08]: <0x2401> CPU: TEKNOR  {5e89b3f0}
+[06/09/22 15:37:08]: <0x2401> Option testMode: enabled  {9f0ed63f}
+[06/09/22 15:37:08]: <0x2401> Option VAL 3: enabled  {8f74bb3b}
+[06/09/22 15:37:08]: <0x2401> Machine Number: ?  {2804a652}
+[06/09/22 15:37:08]: <0x2401> Arm: tx90-S1-R6 floor {1beaad53}
+[06/09/22 15:37:08]: <0x2401> Arm serial number: ?  {aa019c50}
+[06/09/22 15:37:08]: <0x2401> Robot name:   {197f2950}
+[06/09/22 15:37:08]: <0x2401> EP: s7.9 Dec  8 2015 {47d2495e}
+[06/09/22 15:37:08]: <0x2401> EP10: s7.9 Dec  8 2015 {3ccb6a40}
+[06/09/22 15:37:08]: <0x2401> SCA: s7.9 Dec  8 2015 {b9f883bf}
+[06/09/22 15:37:08]: <0x2201> New profile : default {465a1a3d}
+[06/09/22 15:37:08]: <0x2401> End of controller initialization {91bc35d0}
+[06/09/22 15:37:08]: <0x2402> COM-PC: create session 127.0.0.1 on port 65210 id=#55913448 {0cf3ecba}
+[06/09/22 15:37:08]: <0x1801> Working mode:automatic. {f0c7af09}
+[06/09/22 15:37:09]: <0x1602> End of arm power shutdown phase. {00ce3586}
+[06/09/22 15:37:26]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 65210 id=#55913448 {799de7f0}
+[06/09/22 15:45:10]: <0x2402> COM-PC: create session 127.0.0.1 on port 65329 id=#55913864 {1ac1b319}
+[06/09/22 15:45:24]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 65329 id=#55913864 {d8e8009b}
+[06/09/22 15:47:00]: <0x2402> COM-PC: create session 127.0.0.1 on port 65342 id=#55915528 {3f0a728f}
+[06/09/22 15:47:24]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 65342 id=#55915528 {40a4d311}
+[06/09/22 15:47:45]: <0x2402> COM-PC: create session 127.0.0.1 on port 65352 id=#55913552 {e40bda18}
+[06/09/22 15:48:04]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 65352 id=#55913552 {1305f21c}
+[06/15/22 17:29:20]: ----------------------------------------------- {b173ad6c}
+[06/15/22 17:29:20]: Logger started (1048576) {5d8bcab1}
+[06/15/22 17:29:24]: <0x0003> CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ? {2f9a0220}
+[06/15/22 17:29:24]: <0x0003> Cycle time set to 0.004s {c8be5851}
+[06/15/22 17:29:24]: <0x0003> Simulation cycle time set to 0.1s {bf0b5e08}
+[06/15/22 17:29:24]: <0x0002> Controller IP address could not be updated {43d7ce9d}
+[06/15/22 17:29:24]: <0x0003> Mcp = TSimulated {9c870057}
+[06/15/22 17:29:24]: <0x340A> Mcp communication established {4e837cb4}
+[06/15/22 17:29:24]: <0x0002> Default user payload used. {ceab8ca7}
+[06/15/22 17:29:24]: <0x0003> Payload default: mass=6 kg, gravity center: x=0 y=0 z=97 mm, inertia=0 {fb134d0d}
+[06/15/22 17:29:24]: <0x2401> Power hour count = 1:11:01 {6a6492fb}
+[06/15/22 17:29:24]: <0x2401> Mac Address = 54-bf-64-8d-db-1d {8f81dbcc}
+[06/15/22 17:29:24]: <0x0003> COM-PC: server created on all interfaces [851] {61f2b3f5}
+[06/15/22 17:29:24]: <0x2402> History handler has been connected to IHM {158e0bd7}
+[06/15/22 17:29:24]: <0x2401> System: s7.9 Dec 10 2015 {baf6bc76}
+[06/15/22 17:29:24]: <0x2401> Configuration Version: c1.032  {caa91f9f}
+[06/15/22 17:29:24]: <0x2401> CPU: TEKNOR  {e39203c3}
+[06/15/22 17:29:24]: <0x2401> Option testMode: enabled  {80343678}
+[06/15/22 17:29:24]: <0x2401> Option VAL 3: enabled  {b07719e1}
+[06/15/22 17:29:24]: <0x2401> Machine Number: ?  {1c8cccbd}
+[06/15/22 17:29:24]: <0x2401> Arm: tx90-S1-R6 floor {10edc738}
+[06/15/22 17:29:24]: <0x2401> Arm serial number: ?  {dbbf8c24}
+[06/15/22 17:29:24]: <0x2401> Robot name:   {658a05e2}
+[06/15/22 17:29:24]: <0x2401> EP: s7.9 Dec  8 2015 {ec804411}
+[06/15/22 17:29:24]: <0x2401> EP10: s7.9 Dec  8 2015 {33d59015}
+[06/15/22 17:29:24]: <0x2401> SCA: s7.9 Dec  8 2015 {89229499}
+[06/15/22 17:29:24]: <0x2201> New profile : default {c4bd53d3}
+[06/15/22 17:29:24]: <0x2401> End of controller initialization {20128860}
+[06/15/22 17:29:25]: <0x1801> Working mode:automatic. {540aa76c}
+[06/15/22 17:29:25]: <0x2402> COM-PC: create session 127.0.0.1 on port 61121 id=#45809352 {fe74650f}
+[06/15/22 17:29:25]: <0x1602> End of arm power shutdown phase. {99299655}
+[06/15/22 17:29:29]: <0x2401> Saving controller context... {c7a31d58}
+[06/15/22 17:29:30]: <0x2402> Controller temperature: 28°C {9f78a168}
+[06/15/22 17:29:30]: <0x2402> CPU temperature: 28°C {bccec02e}
+[06/15/22 17:29:47]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 61121 id=#45809352 {69f51422}
+[06/16/22 14:10:11]: ----------------------------------------------- {1745427f}
+[06/16/22 14:10:11]: Logger started (1048576) {d45a9e74}
+[06/16/22 14:10:15]: <0x0003> CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ? {2329e652}
+[06/16/22 14:10:15]: <0x0003> Cycle time set to 0.004s {2301fd97}
+[06/16/22 14:10:15]: <0x0003> Simulation cycle time set to 0.1s {15fdc432}
+[06/16/22 14:10:15]: <0x0002> Controller IP address could not be updated {714ee8d3}
+[06/16/22 14:10:15]: <0x0003> Mcp = TSimulated {2e025c5c}
+[06/16/22 14:10:15]: <0x340A> Mcp communication established {596c1f89}
+[06/16/22 14:10:15]: <0x0002> Default user payload used. {9d701869}
+[06/16/22 14:10:15]: <0x0003> Payload default: mass=6 kg, gravity center: x=0 y=0 z=97 mm, inertia=0 {9091835a}
+[06/16/22 14:10:15]: <0x2401> Power hour count = 1:11:01 {59ff8fa8}
+[06/16/22 14:10:15]: <0x2401> Mac Address = 64-00-6a-68-21-66 {01f61a93}
+[06/16/22 14:10:15]: <0x0003> COM-PC: server created on all interfaces [851] {48f9966f}
+[06/16/22 14:10:16]: <0x2402> History handler has been connected to IHM {d8c5e784}
+[06/16/22 14:10:16]: <0x2401> System: s7.9 Dec 10 2015 {756df13d}
+[06/16/22 14:10:16]: <0x2401> Configuration Version: c1.032  {350d840e}
+[06/16/22 14:10:16]: <0x2401> CPU: TEKNOR  {8341f06d}
+[06/16/22 14:10:16]: <0x2401> Option testMode: enabled  {33751df3}
+[06/16/22 14:10:16]: <0x2401> Option VAL 3: enabled  {236c969a}
+[06/16/22 14:10:16]: <0x2401> Machine Number: ?  {e03db7f0}
+[06/16/22 14:10:16]: <0x2401> Arm: tx90-S1-R6 floor {8932a4d8}
+[06/16/22 14:10:16]: <0x2401> Arm serial number: ?  {4c82e711}
+[06/16/22 14:10:16]: <0x2401> Robot name:   {9b30fff6}
+[06/16/22 14:10:16]: <0x2401> EP: s7.9 Dec  8 2015 {934ff78f}
+[06/16/22 14:10:16]: <0x2401> EP10: s7.9 Dec  8 2015 {911a932f}
+[06/16/22 14:10:16]: <0x2401> SCA: s7.9 Dec  8 2015 {f96ae8be}
+[06/16/22 14:10:16]: <0x2201> New profile : default {771ad31c}
+[06/16/22 14:10:16]: <0x2401> End of controller initialization {61d6be87}
+[06/16/22 14:10:16]: <0x1801> Working mode:automatic. {fc5b102f}
+[06/16/22 14:10:16]: <0x2402> COM-PC: create session 127.0.0.1 on port 61555 id=#45491208 {1a180eca}
+[06/16/22 14:10:16]: <0x1602> End of arm power shutdown phase. {a28e000f}
+[06/16/22 14:10:21]: <0x2401> Saving controller context... {04258f37}
+[06/16/22 14:10:21]: <0x2402> Controller temperature: 28°C {4ff6745e}
+[06/16/22 14:10:21]: <0x2402> CPU temperature: 28°C {b435f65d}
+[06/16/22 14:10:33]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 61555 id=#45491208 {74d0e5a6}
+[06/16/22 14:13:38]: ----------------------------------------------- {2760c93c}
+[06/16/22 14:13:38]: Logger started (1048576) {546c1415}
+[06/16/22 14:13:42]: <0x0003> CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ? {f29946e6}
+[06/16/22 14:13:42]: <0x0003> Cycle time set to 0.004s {45b3d2a0}
+[06/16/22 14:13:42]: <0x0003> Simulation cycle time set to 0.1s {99b6d65c}
+[06/16/22 14:13:42]: <0x0002> Controller IP address could not be updated {f0b6074e}
+[06/16/22 14:13:42]: <0x0003> Mcp = TSimulated {69783c88}
+[06/16/22 14:13:42]: <0x340A> Mcp communication established {3697ee6b}
+[06/16/22 14:13:42]: <0x0002> Default user payload used. {9bf98837}
+[06/16/22 14:13:42]: <0x0003> Payload default: mass=6 kg, gravity center: x=0 y=0 z=97 mm, inertia=0 {02df202c}
+[06/16/22 14:13:42]: <0x2401> Power hour count = 1:11:01 {7dc42025}
+[06/16/22 14:13:42]: <0x2401> Mac Address = 64-00-6a-68-21-66 {db6ca8e3}
+[06/16/22 14:13:42]: <0x0003> COM-PC: server created on all interfaces [851] {9e93f2c8}
+[06/16/22 14:13:42]: <0x2402> History handler has been connected to IHM {f86dd0b2}
+[06/16/22 14:13:42]: <0x2401> System: s7.9 Dec 10 2015 {36c22d74}
+[06/16/22 14:13:42]: <0x2401> Configuration Version: c1.032  {05f68908}
+[06/16/22 14:13:42]: <0x2401> CPU: TEKNOR  {2b61e11f}
+[06/16/22 14:13:42]: <0x2401> Option testMode: enabled  {f808881a}
+[06/16/22 14:13:42]: <0x2401> Option VAL 3: enabled  {e82c9391}
+[06/16/22 14:13:42]: <0x2401> Machine Number: ?  {f1be3f6c}
+[06/16/22 14:13:42]: <0x2401> Arm: tx90-S1-R6 floor {7ad2b0be}
+[06/16/22 14:13:42]: <0x2401> Arm serial number: ?  {2eeab16f}
+[06/16/22 14:13:42]: <0x2401> Robot name:   {3f4547b3}
+[06/16/22 14:13:42]: <0x2401> EP: s7.9 Dec  8 2015 {7e50c027}
+[06/16/22 14:13:42]: <0x2401> EP10: s7.9 Dec  8 2015 {fc153020}
+[06/16/22 14:13:42]: <0x2401> SCA: s7.9 Dec  8 2015 {14c1f098}
+[06/16/22 14:13:42]: <0x2201> New profile : default {f71a9b1c}
+[06/16/22 14:13:42]: <0x2401> End of controller initialization {8509d3df}
+[06/16/22 14:13:43]: <0x2402> COM-PC: create session 127.0.0.1 on port 61616 id=#52670152 {05b3359e}
+[06/16/22 14:13:43]: <0x1801> Working mode:automatic. {c3a15c19}
+[06/16/22 14:13:43]: <0x1602> End of arm power shutdown phase. {69157c9c}
+[06/16/22 14:14:04]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 61616 id=#52670152 {acf2ca2e}
+[06/16/22 14:16:20]: <0x2402> COM-PC: create session 127.0.0.1 on port 61691 id=#52670776 {38f2e651}
+[06/16/22 14:16:44]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 61691 id=#52670776 {37a43fb0}
+[06/16/22 14:16:48]: <0x2402> COM-PC: create session 127.0.0.1 on port 61695 id=#52670152 {1b10cfa2}
+[06/16/22 14:17:14]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 61695 id=#52670152 {79d05765}
+[06/16/22 14:17:15]: <0x2402> COM-PC: create session 127.0.0.1 on port 61703 id=#52672128 {70f0bcf3}
+[06/16/22 14:17:34]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 61703 id=#52672128 {b6bb0792}
+[06/16/22 14:17:37]: <0x2402> COM-PC: create session 127.0.0.1 on port 61705 id=#52670776 {0a6f7dfc}
+[06/16/22 14:18:04]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 61705 id=#52670776 {9c338758}
+[06/16/22 14:22:59]: <0x2402> COM-PC: create session 127.0.0.1 on port 61782 id=#52672128 {cf1eac4a}
+[06/16/22 14:23:14]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 61782 id=#52672128 {c7a959a4}
+[06/16/22 14:23:32]: <0x2402> COM-PC: create session 127.0.0.1 on port 61787 id=#52669944 {4975c46c}
+[06/16/22 14:23:44]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 61787 id=#52669944 {66c649c9}
+[06/16/22 14:26:38]: <0x2402> COM-PC: create session 127.0.0.1 on port 61836 id=#52671712 {2c427318}
+[06/16/22 14:27:04]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 61836 id=#52671712 {6bf99b4e}
+[06/16/22 14:27:07]: <0x2402> COM-PC: create session 127.0.0.1 on port 61845 id=#52672128 {ffa19e3a}
+[06/16/22 14:27:34]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 61845 id=#52672128 {c94b294f}
+[06/16/22 14:28:50]: <0x2402> COM-PC: create session 127.0.0.1 on port 61862 id=#52672128 {be60e2e2}
+[06/16/22 14:29:00]: <0x2402> COM-PC: create session 127.0.0.1 on port 61862 id=#52670880 {330f2dee}
+[06/16/22 14:29:00]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {c689962f}
+[06/16/22 14:29:00]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {5b5785ee}
+[06/16/22 14:29:00]: <0x5402> TP1_Paolo application started {b9eade8a}
+[06/16/22 14:29:00]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 61862 id=#52670880 {736cc4e9}
+[06/16/22 14:29:03]: <0x1802> Working mode:manual. {4796d9a1}
+[06/16/22 14:29:05]: <0x1801> Working mode:automatic. {e662dd2f}
+[06/16/22 14:29:06]: <0x5A03> Deadman validated {8b963b9a}
+[06/16/22 14:29:07]: <0x1603> Settling arm power... {3f8b8077}
+[06/16/22 14:29:07]: <0x1601> Arm power settled. {dcfed825}
+[06/16/22 14:29:23]: <0x5A01> Deadman enabled. {f8743078}
+[06/16/22 14:29:24]: <0x5404> ERR 123 IO not linked to a hardware input-output.. TP1_Paolo~.  {a51ab90a}
+[06/16/22 14:33:44]: <0x2402> COM-PC: create session 127.0.0.1 on port 61862 id=#52669944 {5cced426}
+[06/16/22 14:33:44]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {2096330e}
+[06/16/22 14:33:44]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {f6521a5c}
+[06/16/22 14:33:44]: <0x5403> TP1_Paolo application stopped {5b4fc13f}
+[06/16/22 14:33:44]: <0x5402> TP1_Paolo application started {fdbbe86c}
+[06/16/22 14:33:45]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 61862 id=#52669944 {bd9780b9}
+[06/16/22 14:33:50]: <0x5404> ERR 123 IO not linked to a hardware input-output.. TP1_Paolo~.  {01435415}
+[06/16/22 14:37:24]: <0x2402> COM-PC: create session 127.0.0.1 on port 62058 id=#52671400 {035eaea8}
+[06/16/22 14:37:24]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {96efd113}
+[06/16/22 14:37:24]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {f560cab6}
+[06/16/22 14:37:25]: <0x5403> TP1_Paolo application stopped {c7264680}
+[06/16/22 14:37:25]: <0x5402> TP1_Paolo application started {e20b11ea}
+[06/16/22 14:37:25]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 62058 id=#52671400 {7755661f}
+[06/16/22 14:37:27]: <0x5404> ERR 123 IO not linked to a hardware input-output.. TP1_Paolo~.  {05507386}
+[06/16/22 14:38:17]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 61862 id=#52672128 {03dfef7f}
+[06/16/22 14:39:44]: ----------------------------------------------- {38e5f764}
+[06/16/22 14:39:44]: Logger started (1048576) {24118d8c}
+[06/16/22 14:39:49]: <0x0003> CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ? {19666d33}
+[06/16/22 14:39:49]: <0x0003> Cycle time set to 0.004s {69349e32}
+[06/16/22 14:39:49]: <0x0003> Simulation cycle time set to 0.1s {a70cde31}
+[06/16/22 14:39:49]: <0x0002> Controller IP address could not be updated {be3c475e}
+[06/16/22 14:39:49]: <0x0003> Mcp = TSimulated {f60a1cc7}
+[06/16/22 14:39:49]: <0x340A> Mcp communication established {543164a5}
+[06/16/22 14:39:49]: <0x0002> Default user payload used. {a5c2e5c5}
+[06/16/22 14:39:49]: <0x0003> Payload default: mass=6 kg, gravity center: x=0 y=0 z=97 mm, inertia=0 {36e2908f}
+[06/16/22 14:39:49]: <0x2401> Power hour count = 1:11:01 {69419958}
+[06/16/22 14:39:49]: <0x2401> Mac Address = 64-00-6a-68-21-66 {910b049a}
+[06/16/22 14:39:49]: <0x0003> COM-PC: server created on all interfaces [851] {2fcac471}
+[06/16/22 14:39:49]: <0x2402> History handler has been connected to IHM {65beffaf}
+[06/16/22 14:39:49]: <0x2401> System: s7.9 Dec 10 2015 {f1997f0c}
+[06/16/22 14:39:49]: <0x2401> Configuration Version: c1.032  {f336446d}
+[06/16/22 14:39:49]: <0x2401> CPU: TEKNOR  {e6026607}
+[06/16/22 14:39:49]: <0x2401> Option testMode: enabled  {cf86308b}
+[06/16/22 14:39:49]: <0x2401> Option VAL 3: enabled  {bfe6e723}
+[06/16/22 14:39:49]: <0x2401> Machine Number: ?  {380b0f0b}
+[06/16/22 14:39:49]: <0x2401> Arm: tx90-S1-R6 floor {72f3d191}
+[06/16/22 14:39:49]: <0x2401> Arm serial number: ?  {6989ba49}
+[06/16/22 14:39:49]: <0x2401> Robot name:   {59db3cf1}
+[06/16/22 14:39:49]: <0x2401> EP: s7.9 Dec  8 2015 {181a85a4}
+[06/16/22 14:39:49]: <0x2401> EP10: s7.9 Dec  8 2015 {762bee13}
+[06/16/22 14:39:49]: <0x2401> SCA: s7.9 Dec  8 2015 {07cc2463}
+[06/16/22 14:39:49]: <0x2201> New profile : default {a7f6a765}
+[06/16/22 14:39:49]: <0x2401> End of controller initialization {b134503e}
+[06/16/22 14:39:49]: <0x2402> COM-PC: create session 127.0.0.1 on port 62186 id=#49144784 {d1eab5ce}
+[06/16/22 14:39:49]: <0x1801> Working mode:automatic. {cd17afa9}
+[06/16/22 14:39:50]: <0x1602> End of arm power shutdown phase. {74f2d7ec}
+[06/16/22 14:40:04]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 62186 id=#49144784 {7a4bac2a}
+[06/16/22 14:42:03]: <0x2402> COM-PC: create session 127.0.0.1 on port 62201 id=#49142808 {e723c085}
+[06/16/22 14:42:10]: <0x2402> COM-PC: create session 127.0.0.1 on port 62201 id=#49144784 {4697a579}
+[06/16/22 14:42:10]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {04544be3}
+[06/16/22 14:42:10]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {4aa63a71}
+[06/16/22 14:42:10]: <0x5402> TP1_Paolo application started {d0501654}
+[06/16/22 14:42:10]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 62201 id=#49144784 {2646353c}
+[06/16/22 14:42:12]: <0x1802> Working mode:manual. {7c87a777}
+[06/16/22 14:42:14]: <0x1803> Working mode:test. {f72e9d9a}
+[06/16/22 14:42:16]: <0x1804> Working mode:remote. {7e189ef2}
+[06/16/22 14:42:17]: <0x1801> Working mode:automatic. {22caec5d}
+[06/16/22 14:42:18]: <0x5A03> Deadman validated {403e7cbe}
+[06/16/22 14:42:18]: <0x1603> Settling arm power... {6b229ddd}
+[06/16/22 14:42:19]: <0x1601> Arm power settled. {79aa6ad0}
+[06/16/22 14:42:34]: <0x5A01> Deadman enabled. {80e8d091}
+[06/16/22 14:42:34]: <0x5403> TP1_Paolo application stopped {ed40fe63}
+[06/16/22 14:43:24]: <0x2402> COM-PC: create session 127.0.0.1 on port 62201 id=#49143120 {1c789654}
+[06/16/22 14:43:24]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {72d99935}
+[06/16/22 14:43:24]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {0505c499}
+[06/16/22 14:43:24]: <0x5402> TP1_Paolo application started {fe6959de}
+[06/16/22 14:43:24]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 62201 id=#49143120 {5c7d31a0}
+[06/16/22 14:43:45]: <0x5403> TP1_Paolo application stopped {f1e970ea}
+[06/16/22 14:44:38]: <0x2402> COM-PC: create session 127.0.0.1 on port 62296 id=#49143848 {d0d2a346}
+[06/16/22 14:44:38]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {9fe09cd8}
+[06/16/22 14:44:38]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {90457bae}
+[06/16/22 14:44:38]: <0x5402> TP1_Paolo application started {41c887e2}
+[06/16/22 14:44:39]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 62296 id=#49143848 {c2231f2d}
+[06/16/22 14:44:57]: <0x5403> TP1_Paolo application stopped {64eee910}
+[06/16/22 14:48:49]: <0x2402> COM-PC: create session 127.0.0.1 on port 62758 id=#49146032 {08b23db6}
+[06/16/22 14:48:49]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {bc25ee4c}
+[06/16/22 14:48:49]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {8c086a61}
+[06/16/22 14:48:50]: <0x5405> (File start.pgx-line 55) 'x_nCouleurbout' : invalid name {48573fc2}
+[06/16/22 14:48:50]: <0x5405> (File start.pgx-line 57) 'x_nCouleurbout' : invalid name {cf44be94}
+[06/16/22 14:48:50]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 62758 id=#49146032 {eae5a011}
+[06/16/22 14:50:37]: <0x2402> COM-PC: create session 127.0.0.1 on port 62973 id=#49144472 {7fcbe1bb}
+[06/16/22 14:50:37]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {7943f514}
+[06/16/22 14:50:37]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {751a5b97}
+[06/16/22 14:50:38]: <0x5402> TP1_Paolo application started {aad4aa6f}
+[06/16/22 14:50:38]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 62973 id=#49144472 {5348c6f0}
+[06/16/22 14:50:47]: <0x5403> TP1_Paolo application stopped {0330d861}
+[06/16/22 14:51:09]: <0x2402> COM-PC: create session 127.0.0.1 on port 62973 id=#49143120 {efd1e8cd}
+[06/16/22 14:51:09]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {abc719bf}
+[06/16/22 14:51:09]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {4d54d5ab}
+[06/16/22 14:51:09]: <0x5402> TP1_Paolo application started {b22c1ccb}
+[06/16/22 14:51:09]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 62973 id=#49143120 {af89af11}
+[06/16/22 14:51:19]: <0x5403> TP1_Paolo application stopped {859944ab}
+[06/16/22 14:52:21]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 62201 id=#49142808 {4621e48d}
+[06/16/22 14:55:37]: ----------------------------------------------- {aba8accc}
+[06/16/22 14:55:37]: Logger started (1048576) {12fde229}
+[06/16/22 14:55:41]: <0x0003> CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ? {74dde76f}
+[06/16/22 14:55:41]: <0x0003> Cycle time set to 0.004s {bcb26098}
+[06/16/22 14:55:41]: <0x0003> Simulation cycle time set to 0.1s {2dc7e37a}
+[06/16/22 14:55:41]: <0x0002> Controller IP address could not be updated {9341dd08}
+[06/16/22 14:55:41]: <0x0003> Mcp = TSimulated {113e107e}
+[06/16/22 14:55:41]: <0x340A> Mcp communication established {abe11525}
+[06/16/22 14:55:41]: <0x0002> Default user payload used. {3116c895}
+[06/16/22 14:55:41]: <0x0003> Payload default: mass=6 kg, gravity center: x=0 y=0 z=97 mm, inertia=0 {b07274ce}
+[06/16/22 14:55:41]: <0x2401> Power hour count = 1:11:01 {39f9c81f}
+[06/16/22 14:55:41]: <0x2401> Mac Address = 64-00-6a-68-21-66 {c00f1dc7}
+[06/16/22 14:55:41]: <0x0003> COM-PC: server created on all interfaces [851] {e9223cd3}
+[06/16/22 14:55:41]: <0x2402> History handler has been connected to IHM {44d9640c}
+[06/16/22 14:55:41]: <0x2401> System: s7.9 Dec 10 2015 {1c651328}
+[06/16/22 14:55:41]: <0x2401> Configuration Version: c1.032  {ef23f04d}
+[06/16/22 14:55:41]: <0x2401> CPU: TEKNOR  {eb166870}
+[06/16/22 14:55:41]: <0x2401> Option testMode: enabled  {131b6d05}
+[06/16/22 14:55:41]: <0x2401> Option VAL 3: enabled  {2307f73d}
+[06/16/22 14:55:41]: <0x2401> Machine Number: ?  {8e97caa5}
+[06/16/22 14:55:41]: <0x2401> Arm: tx90-S1-R6 floor {a0b5ae39}
+[06/16/22 14:55:41]: <0x2401> Arm serial number: ?  {97a622bb}
+[06/16/22 14:55:41]: <0x2401> Robot name:   {c3293baf}
+[06/16/22 14:55:41]: <0x2401> EP: s7.9 Dec  8 2015 {d4fd999b}
+[06/16/22 14:55:41]: <0x2401> EP10: s7.9 Dec  8 2015 {036c5394}
+[06/16/22 14:55:41]: <0x2401> SCA: s7.9 Dec  8 2015 {3f3296e4}
+[06/16/22 14:55:41]: <0x2201> New profile : default {893b9e87}
+[06/16/22 14:55:41]: <0x2401> End of controller initialization {fc1df830}
+[06/16/22 14:55:41]: <0x2402> COM-PC: create session 127.0.0.1 on port 63009 id=#56694872 {c66f2afa}
+[06/16/22 14:55:42]: <0x1801> Working mode:automatic. {ddcc04a4}
+[06/16/22 14:55:42]: <0x1602> End of arm power shutdown phase. {ed3c06ad}
+[06/16/22 14:56:06]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 63009 id=#56694872 {124c1bc9}
+[06/16/22 14:57:48]: <0x2402> COM-PC: create session 127.0.0.1 on port 63030 id=#56695912 {8489f5a4}
+[06/16/22 14:58:36]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 63030 id=#56695912 {685ba893}
+[06/16/22 14:58:49]: <0x2402> COM-PC: create session 127.0.0.1 on port 63041 id=#56697472 {45f94d0c}
+[06/16/22 14:59:06]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 63041 id=#56697472 {6d06344f}
+[06/16/22 14:59:36]: <0x2402> COM-PC: create session 127.0.0.1 on port 63046 id=#56697160 {bdfd3cce}
+[06/16/22 15:00:00]: <0x2402> COM-PC: create session 127.0.0.1 on port 63049 id=#56696224 {23c1baaf}
+[06/16/22 15:00:00]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {76559f70}
+[06/16/22 15:00:00]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {24942f12}
+[06/16/22 15:00:00]: <0x5402> TP1_Paolo application started {8080aaff}
+[06/16/22 15:00:00]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 63049 id=#56696224 {2db65976}
+[06/16/22 15:00:04]: <0x1802> Working mode:manual. {8f203fc9}
+[06/16/22 15:00:06]: <0x1804> Working mode:remote. {e79410d0}
+[06/16/22 15:00:07]: <0x1801> Working mode:automatic. {97ae679b}
+[06/16/22 15:00:08]: <0x5A03> Deadman validated {dfda8e2c}
+[06/16/22 15:00:08]: <0x1603> Settling arm power... {f0eabd05}
+[06/16/22 15:00:09]: <0x1601> Arm power settled. {64f4dfa6}
+[06/16/22 15:00:16]: <0x5403> TP1_Paolo application stopped {2930335a}
+[06/16/22 15:00:24]: <0x5A01> Deadman enabled. {82e68872}
+[06/16/22 15:01:45]: <0x2402> COM-PC: create session 127.0.0.1 on port 63209 id=#56694248 {c8bfaff2}
+[06/16/22 15:01:45]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {a5bd7baf}
+[06/16/22 15:01:45]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {96dd5f36}
+[06/16/22 15:01:46]: <0x5402> TP1_Paolo application started {d5ac6e5a}
+[06/16/22 15:01:46]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 63209 id=#56694248 {e16dad10}
+[06/16/22 15:01:52]: <0x5403> TP1_Paolo application stopped {4300a600}
+[06/16/22 15:02:51]: <0x2402> COM-PC: create session 127.0.0.1 on port 63301 id=#56696224 {692d094d}
+[06/16/22 15:02:51]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {a0fba592}
+[06/16/22 15:02:51]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {22cbd43b}
+[06/16/22 15:02:51]: <0x5402> TP1_Paolo application started {e2317864}
+[06/16/22 15:02:51]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 63301 id=#56696224 {2972e984}
+[06/16/22 15:02:58]: <0x5403> TP1_Paolo application stopped {0c201e6d}
+[06/16/22 15:03:06]: <0x2402> COM-PC: create session 127.0.0.1 on port 63301 id=#56694872 {bfe469ed}
+[06/16/22 15:03:06]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {dae3e5ee}
+[06/16/22 15:03:06]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {c99a3da4}
+[06/16/22 15:03:06]: <0x5402> TP1_Paolo application started {71923646}
+[06/16/22 15:03:06]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 63301 id=#56694872 {e8a7c90c}
+[06/16/22 15:03:16]: <0x5403> TP1_Paolo application stopped {8e8fc10f}
+[06/16/22 15:03:28]: <0x2402> COM-PC: create session 127.0.0.1 on port 63301 id=#56694248 {f83f198d}
+[06/16/22 15:03:28]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {7f4c92b6}
+[06/16/22 15:03:28]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {ca1762d9}
+[06/16/22 15:03:29]: <0x5402> TP1_Paolo application started {824e02a2}
+[06/16/22 15:03:29]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 63301 id=#56694248 {f4186764}
+[06/16/22 15:03:42]: <0x5403> TP1_Paolo application stopped {e91ff421}
+[06/16/22 15:05:42]: <0x2402> COM-PC: create session 127.0.0.1 on port 63535 id=#56694248 {4675319d}
+[06/16/22 15:05:42]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {0a994d3e}
+[06/16/22 15:05:42]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {0769ab16}
+[06/16/22 15:05:42]: <0x5402> TP1_Paolo application started {f8bc11ed}
+[06/16/22 15:05:42]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 63535 id=#56694248 {06232a93}
+[06/16/22 15:05:57]: <0x5403> TP1_Paolo application stopped {5149a01d}
+[06/16/22 15:06:26]: <0x2402> COM-PC: create session 127.0.0.1 on port 63541 id=#56694872 {77d66a19}
+[06/16/22 15:06:26]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {f1beb454}
+[06/16/22 15:06:26]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {5ed95636}
+[06/16/22 15:06:27]: <0x5402> TP1_Paolo application started {7218fe54}
+[06/16/22 15:06:27]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 63541 id=#56694872 {b5219658}
+[06/16/22 15:06:36]: <0x5403> TP1_Paolo application stopped {c4983268}
+[06/16/22 15:06:43]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 63046 id=#56697160 {23c117c5}
+[06/16/22 15:09:31]: ----------------------------------------------- {6cce90bd}
+[06/16/22 15:09:31]: Logger started (1048576) {dbf64f33}
+[06/16/22 15:09:35]: <0x0003> CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ? {b2994784}
+[06/16/22 15:09:35]: <0x0003> Cycle time set to 0.004s {63e95d9c}
+[06/16/22 15:09:35]: <0x0003> Simulation cycle time set to 0.1s {ee505233}
+[06/16/22 15:09:35]: <0x0002> Controller IP address could not be updated {1e3df292}
+[06/16/22 15:09:35]: <0x0003> Mcp = TSimulated {ff6412e9}
+[06/16/22 15:09:35]: <0x340A> Mcp communication established {93224d90}
+[06/16/22 15:09:35]: <0x0002> Default user payload used. {cae322df}
+[06/16/22 15:09:35]: <0x0003> Payload default: mass=6 kg, gravity center: x=0 y=0 z=97 mm, inertia=0 {58a8eaf9}
+[06/16/22 15:09:35]: <0x2401> Power hour count = 1:11:01 {c9257708}
+[06/16/22 15:09:35]: <0x2401> Mac Address = 64-00-6a-68-21-66 {cd440851}
+[06/16/22 15:09:35]: <0x0003> COM-PC: server created on all interfaces [851] {7607a54f}
+[06/16/22 15:09:35]: <0x2402> History handler has been connected to IHM {3be961cb}
+[06/16/22 15:09:35]: <0x2401> System: s7.9 Dec 10 2015 {46d56824}
+[06/16/22 15:09:35]: <0x2401> Configuration Version: c1.032  {a846d102}
+[06/16/22 15:09:35]: <0x2401> CPU: TEKNOR  {360dfc7c}
+[06/16/22 15:09:35]: <0x2401> Option testMode: enabled  {a41885ad}
+[06/16/22 15:09:35]: <0x2401> Option VAL 3: enabled  {94a9ab4b}
+[06/16/22 15:09:35]: <0x2401> Machine Number: ?  {b95ca858}
+[06/16/22 15:09:35]: <0x2401> Arm: tx90-S1-R6 floor {c2be1c53}
+[06/16/22 15:09:35]: <0x2401> Arm serial number: ?  {bdf13637}
+[06/16/22 15:09:35]: <0x2401> Robot name:   {84a18ae5}
+[06/16/22 15:09:35]: <0x2401> EP: s7.9 Dec  8 2015 {5d407342}
+[06/16/22 15:09:35]: <0x2401> EP10: s7.9 Dec  8 2015 {88788732}
+[06/16/22 15:09:35]: <0x2401> SCA: s7.9 Dec  8 2015 {365081e0}
+[06/16/22 15:09:35]: <0x2201> New profile : default {3bd4e76b}
+[06/16/22 15:09:35]: <0x2401> End of controller initialization {14740e25}
+[06/16/22 15:09:36]: <0x2402> COM-PC: create session 127.0.0.1 on port 63587 id=#49159672 {b1f9ffe1}
+[06/16/22 15:09:36]: <0x1801> Working mode:automatic. {c7e139ec}
+[06/16/22 15:09:36]: <0x1602> End of arm power shutdown phase. {30a942f5}
+[06/16/22 15:10:01]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 63587 id=#49159672 {7e0af995}
+[06/16/22 15:27:20]: ----------------------------------------------- {5a668502}
+[06/16/22 15:27:20]: Logger started (1048576) {1e34c23a}
+[06/16/22 15:27:24]: <0x0003> CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ? {1f6a6f0f}
+[06/16/22 15:27:24]: <0x0003> Cycle time set to 0.004s {c33a2eab}
+[06/16/22 15:27:24]: <0x0003> Simulation cycle time set to 0.1s {f1d1ce49}
+[06/16/22 15:27:24]: <0x0002> Controller IP address could not be updated {18cb1c34}
+[06/16/22 15:27:24]: <0x2E0C> Internal error MODBUS-StartServer Channel=0 Status=65534 {34c85843}
+[06/16/22 15:27:24]: <0x0002> Default user payload used. {3adbe9de}
+[06/16/22 15:27:24]: <0x0003> Payload default: mass=6 kg, gravity center: x=0 y=0 z=97 mm, inertia=0 {4dbbfb4d}
+[06/16/22 15:27:24]: <0x2401> Power hour count = 1:11:01 {d9fa63d1}
+[06/16/22 15:27:24]: <0x2401> Mac Address = 64-00-6a-68-21-66 {217e400f}
+[06/16/22 15:27:25]: <0x0003> COM-PC: server created on all interfaces [851] {b3f40cac}
+[06/16/22 15:27:25]: <0x2402> History handler has been connected to IHM {01a2ea1a}
+[06/16/22 15:27:25]: <0x2401> System: s7.9 Dec 10 2015 {c1f74da0}
+[06/16/22 15:27:25]: <0x2401> Configuration Version: c1.032  {0c946d00}
+[06/16/22 15:27:25]: <0x2401> CPU: TEKNOR  {58bccf4b}
+[06/16/22 15:27:25]: <0x2401> Option testMode: enabled  {c250bc65}
+[06/16/22 15:27:25]: <0x2401> Option VAL 3: enabled  {d2064a1f}
+[06/16/22 15:27:25]: <0x2401> Machine Number: ?  {cfa664f4}
+[06/16/22 15:27:25]: <0x2401> Arm: tx90-S1-R6 floor {d971382c}
+[06/16/22 15:27:25]: <0x2401> Arm serial number: ?  {d7398f93}
+[06/16/22 15:27:25]: <0x2401> Robot name:   {ce827e5d}
+[06/16/22 15:27:25]: <0x2401> EP: s7.9 Dec  8 2015 {68cc6b01}
+[06/16/22 15:27:25]: <0x2401> EP10: s7.9 Dec  8 2015 {b8fa7a0c}
+[06/16/22 15:27:25]: <0x2401> SCA: s7.9 Dec  8 2015 {9ea13463}
+[06/16/22 15:27:25]: <0x2201> New profile : default {efb5a17f}
+[06/16/22 15:27:25]: <0x2401> End of controller initialization {bcc25798}
+[06/16/22 15:27:26]: <0x1602> End of arm power shutdown phase. {4d5c5148}
+[06/16/22 15:29:03]: ----------------------------------------------- {48534df5}
+[06/16/22 15:29:03]: Logger started (1048576) {396e9569}
+[06/16/22 15:29:07]: <0x0003> CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ? {39da0d60}
+[06/16/22 15:29:07]: <0x0003> Cycle time set to 0.004s {1d4e89b6}
+[06/16/22 15:29:07]: <0x0003> Simulation cycle time set to 0.1s {f720afc8}
+[06/16/22 15:29:07]: <0x0002> Controller IP address could not be updated {7416de6e}
+[06/16/22 15:29:07]: <0x2E0C> Internal error MODBUS-StartServer Channel=0 Status=65534 {13c5cee6}
+[06/16/22 15:29:07]: <0x0002> Default user payload used. {3b6d3846}
+[06/16/22 15:29:07]: <0x0003> Payload default: mass=6 kg, gravity center: x=0 y=0 z=97 mm, inertia=0 {1e4df54f}
+[06/16/22 15:29:07]: <0x2401> Power hour count = 1:11:01 {f7f2d5bd}
+[06/16/22 15:29:07]: <0x2401> Mac Address = 64-00-6a-68-21-66 {a345ceba}
+[06/16/22 15:29:08]: <0x0003> COM-PC: server created on all interfaces [851] {653ba0a3}
+[06/16/22 15:29:08]: <0x2402> History handler has been connected to IHM {7a5fb9e9}
+[06/16/22 15:29:08]: <0x2401> System: s7.9 Dec 10 2015 {f990604c}
+[06/16/22 15:29:08]: <0x2401> Configuration Version: c1.032  {c3345f30}
+[06/16/22 15:29:08]: <0x2401> CPU: TEKNOR  {6ceeb65e}
+[06/16/22 15:29:08]: <0x2401> Option testMode: enabled  {378cb248}
+[06/16/22 15:29:08]: <0x2401> Option VAL 3: enabled  {47123082}
+[06/16/22 15:29:08]: <0x2401> Machine Number: ?  {6bf8da07}
+[06/16/22 15:29:08]: <0x2401> Arm: tx90-S1-R6 floor {06d2ced5}
+[06/16/22 15:29:08]: <0x2401> Arm serial number: ?  {228158c3}
+[06/16/22 15:29:08]: <0x2401> Robot name:   {403d6dbe}
+[06/16/22 15:29:08]: <0x2401> EP: s7.9 Dec  8 2015 {fd481e7c}
+[06/16/22 15:29:08]: <0x2401> EP10: s7.9 Dec  8 2015 {59a253c6}
+[06/16/22 15:29:08]: <0x2401> SCA: s7.9 Dec  8 2015 {c1074663}
+[06/16/22 15:29:08]: <0x2201> New profile : default {77710e14}
+[06/16/22 15:29:08]: <0x2401> End of controller initialization {13a7f586}
+[06/16/22 15:29:08]: <0x1602> End of arm power shutdown phase. {32f1c8b9}
+[06/16/22 15:31:25]: ----------------------------------------------- {4acc0d7e}
+[06/16/22 15:31:25]: Logger started (1048576) {68ded71d}
+[06/16/22 15:31:29]: <0x0003> CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ? {578fd4ce}
+[06/16/22 15:31:29]: <0x0003> Cycle time set to 0.004s {bc8d40a1}
+[06/16/22 15:31:29]: <0x0003> Simulation cycle time set to 0.1s {1111c131}
+[06/16/22 15:31:29]: <0x0002> Controller IP address could not be updated {9d321af7}
+[06/16/22 15:31:29]: <0x0002> Default user payload used. {14d1adca}
+[06/16/22 15:31:29]: <0x0003> Payload default: mass=6 kg, gravity center: x=0 y=0 z=97 mm, inertia=0 {c7abd2f6}
+[06/16/22 15:31:29]: <0x2401> Power hour count = 1:11:01 {2cc7544a}
+[06/16/22 15:31:29]: <0x2401> Mac Address = 64-00-6a-68-21-66 {9d2908a6}
+[06/16/22 15:31:29]: <0x0003> COM-PC: server created on all interfaces [851] {e04e262e}
+[06/16/22 15:31:29]: <0x2402> History handler has been connected to IHM {12658843}
+[06/16/22 15:31:29]: <0x2401> System: s7.9 Dec 10 2015 {1d75d55b}
+[06/16/22 15:31:29]: <0x2401> Configuration Version: c1.032  {aa9f1fb7}
+[06/16/22 15:31:29]: <0x2401> CPU: TEKNOR  {6f46f8a8}
+[06/16/22 15:31:29]: <0x2401> Option testMode: enabled  {81c7a62a}
+[06/16/22 15:31:29]: <0x2401> Option VAL 3: enabled  {71a2bbc2}
+[06/16/22 15:31:29]: <0x2401> Machine Number: ?  {acb3adff}
+[06/16/22 15:31:29]: <0x2401> Arm: tx90-S1-R6 floor {a3895ad7}
+[06/16/22 15:31:29]: <0x2401> Arm serial number: ?  {b1b52464}
+[06/16/22 15:31:29]: <0x2401> Robot name:   {addc683f}
+[06/16/22 15:31:29]: <0x2401> EP: s7.9 Dec  8 2015 {05c5e2b8}
+[06/16/22 15:31:29]: <0x2401> EP10: s7.9 Dec  8 2015 {de0cc975}
+[06/16/22 15:31:29]: <0x2401> SCA: s7.9 Dec  8 2015 {0daee426}
+[06/16/22 15:31:29]: <0x2201> New profile : default {71c4f712}
+[06/16/22 15:31:29]: <0x2401> End of controller initialization {8da01f81}
+[06/16/22 15:31:30]: <0x1602> End of arm power shutdown phase. {2e49225f}
+[06/16/22 15:58:11]: ----------------------------------------------- {65909d25}
+[06/16/22 15:58:11]: Logger started (1048576) {601beaad}
+[06/16/22 15:58:15]: <0x0003> CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ? {361fadeb}
+[06/16/22 15:58:15]: <0x0003> Cycle time set to 0.004s {68812e57}
+[06/16/22 15:58:15]: <0x0003> Simulation cycle time set to 0.1s {bd97e159}
+[06/16/22 15:58:15]: <0x0002> Controller IP address could not be updated {a431f1fb}
+[06/16/22 15:58:15]: <0x0003> Mcp = TSimulated {d14e47d8}
+[06/16/22 15:58:15]: <0x340A> Mcp communication established {e8dc65d6}
+[06/16/22 15:58:15]: <0x0002> Default user payload used. {adb0b33e}
+[06/16/22 15:58:15]: <0x0003> Payload default: mass=6 kg, gravity center: x=0 y=0 z=97 mm, inertia=0 {358d292e}
+[06/16/22 15:58:15]: <0x2401> Power hour count = 1:11:01 {fdb627f1}
+[06/16/22 15:58:15]: <0x2401> Mac Address = 64-00-6a-68-21-66 {bf5c26f5}
+[06/16/22 15:58:15]: <0x0003> COM-PC: server created on all interfaces [851] {7c09a645}
+[06/16/22 15:58:15]: <0x2402> History handler has been connected to IHM {8f2f9bdc}
+[06/16/22 15:58:15]: <0x2401> System: s7.9 Dec 10 2015 {7eb40fc2}
+[06/16/22 15:58:15]: <0x2401> Configuration Version: c1.032  {01e28170}
+[06/16/22 15:58:15]: <0x2401> CPU: TEKNOR  {68c4bd00}
+[06/16/22 15:58:15]: <0x2401> Option testMode: enabled  {7592e84f}
+[06/16/22 15:58:15]: <0x2401> Option VAL 3: enabled  {654c2684}
+[06/16/22 15:58:15]: <0x2401> Machine Number: ?  {993aba7f}
+[06/16/22 15:58:15]: <0x2401> Arm: tx90-S1-R6 floor {627f5b58}
+[06/16/22 15:58:15]: <0x2401> Arm serial number: ?  {df8e2de5}
+[06/16/22 15:58:15]: <0x2401> Robot name:   {893b4b45}
+[06/16/22 15:58:15]: <0x2401> EP: s7.9 Dec  8 2015 {4996b5d9}
+[06/16/22 15:58:15]: <0x2401> EP10: s7.9 Dec  8 2015 {f9c158bc}
+[06/16/22 15:58:15]: <0x2401> SCA: s7.9 Dec  8 2015 {f201e9dc}
+[06/16/22 15:58:15]: <0x2201> New profile : default {f638fbcf}
+[06/16/22 15:58:15]: <0x2401> End of controller initialization {113370f6}
+[06/16/22 15:58:15]: <0x2402> COM-PC: create session 127.0.0.1 on port 51975 id=#51064992 {341f6cfd}
+[06/16/22 15:58:16]: <0x1801> Working mode:automatic. {726bec25}
+[06/16/22 15:58:16]: <0x1602> End of arm power shutdown phase. {a447b150}
+[06/16/22 15:58:33]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 51975 id=#51064992 {808ee47e}
+[06/16/22 16:01:21]: ----------------------------------------------- {87e5a135}
+[06/16/22 16:01:21]: Logger started (1048576) {9cac3a25}
+[06/16/22 16:01:26]: <0x0003> CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ? {dd0e4c77}
+[06/16/22 16:01:26]: <0x0003> Cycle time set to 0.004s {8fa04f50}
+[06/16/22 16:01:26]: <0x0003> Simulation cycle time set to 0.1s {3ca73fed}
+[06/16/22 16:01:26]: <0x0002> Controller IP address could not be updated {a0a29941}
+[06/16/22 16:01:26]: <0x0003> Mcp = TSimulated {f65d4a23}
+[06/16/22 16:01:26]: <0x340A> Mcp communication established {06f5d4dc}
+[06/16/22 16:01:26]: <0x0002> Default user payload used. {3fa50830}
+[06/16/22 16:01:26]: <0x0003> Payload default: mass=6 kg, gravity center: x=0 y=0 z=97 mm, inertia=0 {45abadb4}
+[06/16/22 16:01:26]: <0x2401> Power hour count = 1:11:01 {2412fd80}
+[06/16/22 16:01:26]: <0x2401> Mac Address = 64-00-6a-68-21-66 {ed1e95d4}
+[06/16/22 16:01:26]: <0x0003> COM-PC: server created on all interfaces [851] {3975292c}
+[06/16/22 16:01:26]: <0x2402> History handler has been connected to IHM {765e7bf9}
+[06/16/22 16:01:26]: <0x2401> System: s7.9 Dec 10 2015 {d90009f1}
+[06/16/22 16:01:26]: <0x2401> Configuration Version: c1.032  {d6c6c5e3}
+[06/16/22 16:01:26]: <0x2401> CPU: TEKNOR  {cf945c50}
+[06/16/22 16:01:26]: <0x2401> Option testMode: enabled  {db4354a3}
+[06/16/22 16:01:26]: <0x2401> Option VAL 3: enabled  {cb87092b}
+[06/16/22 16:01:26]: <0x2401> Machine Number: ?  {415f0e6c}
+[06/16/22 16:01:26]: <0x2401> Arm: tx90-S1-R6 floor {f19789b9}
+[06/16/22 16:01:26]: <0x2401> Arm serial number: ?  {47370685}
+[06/16/22 16:01:26]: <0x2401> Robot name:   {19a60f94}
+[06/16/22 16:01:26]: <0x2401> EP: s7.9 Dec  8 2015 {9e873906}
+[06/16/22 16:01:26]: <0x2401> EP10: s7.9 Dec  8 2015 {a9e52995}
+[06/16/22 16:01:26]: <0x2401> SCA: s7.9 Dec  8 2015 {ca3e2b42}
+[06/16/22 16:01:26]: <0x2201> New profile : default {dbdbe027}
+[06/16/22 16:01:26]: <0x2401> End of controller initialization {17e67ee8}
+[06/16/22 16:01:26]: <0x2402> COM-PC: create session 127.0.0.1 on port 51995 id=#51317056 {7ad81562}
+[06/16/22 16:01:26]: <0x1801> Working mode:automatic. {01c9839f}
+[06/16/22 16:01:27]: <0x1602> End of arm power shutdown phase. {12ea8ad7}
+[06/16/22 16:01:43]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 51995 id=#51317056 {c5b389dc}
+[06/16/22 16:20:24]: ----------------------------------------------- {02590a5e}
+[06/16/22 16:20:24]: Logger started (1048576) {b7887996}
+[06/16/22 16:20:28]: <0x0003> CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ? {44dc4547}
+[06/16/22 16:20:28]: <0x0003> Cycle time set to 0.004s {bd9b4394}
+[06/16/22 16:20:28]: <0x0003> Simulation cycle time set to 0.1s {36b9f425}
+[06/16/22 16:20:28]: <0x0002> Controller IP address could not be updated {ef7c1b36}
+[06/16/22 16:20:28]: <0x0003> Mcp = TSimulated {d8b7debf}
+[06/16/22 16:20:28]: <0x340A> Mcp communication established {e40aa747}
+[06/16/22 16:20:28]: <0x0002> Default user payload used. {5683ed72}
+[06/16/22 16:20:28]: <0x0003> Payload default: mass=6 kg, gravity center: x=0 y=0 z=97 mm, inertia=0 {e8202d2f}
+[06/16/22 16:20:28]: <0x2401> Power hour count = 1:11:01 {21bb98e1}
+[06/16/22 16:20:28]: <0x2401> Mac Address = 64-00-6a-68-21-66 {53e45617}
+[06/16/22 16:20:28]: <0x0003> COM-PC: server created on all interfaces [851] {8896fea7}
+[06/16/22 16:20:28]: <0x2402> History handler has been connected to IHM {e5e33afc}
+[06/16/22 16:20:28]: <0x2401> System: s7.9 Dec 10 2015 {5b82ad16}
+[06/16/22 16:20:28]: <0x2401> Configuration Version: c1.032  {17561da2}
+[06/16/22 16:20:28]: <0x2401> CPU: TEKNOR  {14fc797d}
+[06/16/22 16:20:28]: <0x2401> Option testMode: enabled  {cae9f9f0}
+[06/16/22 16:20:28]: <0x2401> Option VAL 3: enabled  {daba8dc9}
+[06/16/22 16:20:28]: <0x2401> Machine Number: ?  {26ba4174}
+[06/16/22 16:20:28]: <0x2401> Arm: tx90-S1-R6 floor {2759d22b}
+[06/16/22 16:20:28]: <0x2401> Arm serial number: ?  {f6ee2d1b}
+[06/16/22 16:20:28]: <0x2401> Robot name:   {66c7b337}
+[06/16/22 16:20:28]: <0x2401> EP: s7.9 Dec  8 2015 {25a02604}
+[06/16/22 16:20:28]: <0x2401> EP10: s7.9 Dec  8 2015 {ad95242a}
+[06/16/22 16:20:28]: <0x2401> SCA: s7.9 Dec  8 2015 {6b743024}
+[06/16/22 16:20:28]: <0x2201> New profile : default {ee7a5cb1}
+[06/16/22 16:20:28]: <0x2401> End of controller initialization {aa0f4bde}
+[06/16/22 16:20:28]: <0x2402> COM-PC: create session 127.0.0.1 on port 52689 id=#58723808 {c63723b0}
+[06/16/22 16:20:28]: <0x1801> Working mode:automatic. {fa9b9356}
+[06/16/22 16:20:29]: <0x1602> End of arm power shutdown phase. {0663c304}
+[06/16/22 16:20:31]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 52689 id=#58723808 {7d303280}
+[06/16/22 16:22:45]: ----------------------------------------------- {9c1dfea2}
+[06/16/22 16:22:45]: Logger started (1048576) {75d68d60}
+[06/16/22 16:22:50]: <0x0003> CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ? {2d40fa10}
+[06/16/22 16:22:50]: <0x0003> Cycle time set to 0.004s {ab516f31}
+[06/16/22 16:22:50]: <0x0003> Simulation cycle time set to 0.1s {924e41b3}
+[06/16/22 16:22:50]: <0x0002> Controller IP address could not be updated {1512b8e1}
+[06/16/22 16:22:50]: <0x0003> Mcp = TSimulated {d46f1a98}
+[06/16/22 16:22:50]: <0x340A> Mcp communication established {ce7ac4b6}
+[06/16/22 16:22:50]: <0x0002> Default user payload used. {be38d69d}
+[06/16/22 16:22:50]: <0x0003> Payload default: mass=6 kg, gravity center: x=0 y=0 z=97 mm, inertia=0 {66fd9e50}
+[06/16/22 16:22:50]: <0x2401> Power hour count = 1:11:01 {c6e4c809}
+[06/16/22 16:22:50]: <0x2401> Mac Address = 64-00-6a-68-21-66 {4aef5509}
+[06/16/22 16:22:50]: <0x0003> COM-PC: server created on all interfaces [851] {d7a7cc32}
+[06/16/22 16:22:50]: <0x2402> History handler has been connected to IHM {c7126778}
+[06/16/22 16:22:50]: <0x2401> System: s7.9 Dec 10 2015 {58cf397a}
+[06/16/22 16:22:50]: <0x2401> Configuration Version: c1.032  {5dfe5d27}
+[06/16/22 16:22:50]: <0x2401> CPU: TEKNOR  {2268cef6}
+[06/16/22 16:22:50]: <0x2401> Option testMode: enabled  {2042ec6d}
+[06/16/22 16:22:50]: <0x2401> Option VAL 3: enabled  {30979b7a}
+[06/16/22 16:22:50]: <0x2401> Machine Number: ?  {17abbed2}
+[06/16/22 16:22:50]: <0x2401> Arm: tx90-S1-R6 floor {5dc674d2}
+[06/16/22 16:22:50]: <0x2401> Arm serial number: ?  {def96921}
+[06/16/22 16:22:50]: <0x2401> Robot name:   {beec8bd1}
+[06/16/22 16:22:50]: <0x2401> EP: s7.9 Dec  8 2015 {163996fc}
+[06/16/22 16:22:50]: <0x2401> EP10: s7.9 Dec  8 2015 {4a8181a8}
+[06/16/22 16:22:50]: <0x2401> SCA: s7.9 Dec  8 2015 {7b5116e5}
+[06/16/22 16:22:50]: <0x2201> New profile : default {ce349f0e}
+[06/16/22 16:22:50]: <0x2401> End of controller initialization {d6d31c8d}
+[06/16/22 16:22:50]: <0x2402> COM-PC: create session 127.0.0.1 on port 52718 id=#52239968 {2a77d91a}
+[06/16/22 16:22:50]: <0x1801> Working mode:automatic. {983ad43c}
+[06/16/22 16:22:51]: <0x1602> End of arm power shutdown phase. {df2b617d}
+[06/16/22 16:23:03]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 52718 id=#52239968 {c1b32811}
+[06/16/22 16:24:12]: <0x2402> COM-PC: create session 127.0.0.1 on port 52738 id=#52241008 {2df52b7c}
+[06/16/22 16:24:16]: <0x2402> COM-PC: create session 127.0.0.1 on port 52738 id=#52239968 {fb6db813}
+[06/16/22 16:24:16]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {0b423d72}
+[06/16/22 16:24:16]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {98a311c0}
+[06/16/22 16:24:17]: <0x5402> TP1_Paolo application started {d5958875}
+[06/16/22 16:24:17]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 52738 id=#52239968 {f3c542c4}
+[06/16/22 16:24:19]: <0x1803> Working mode:test. {a9460b6d}
+[06/16/22 16:24:21]: <0x1801> Working mode:automatic. {82c5f1df}
+[06/16/22 16:24:22]: <0x5A03> Deadman validated {783a4476}
+[06/16/22 16:24:22]: <0x1603> Settling arm power... {73f47b3b}
+[06/16/22 16:24:22]: <0x1601> Arm power settled. {86074e36}
+[06/16/22 16:24:36]: <0x5403> TP1_Paolo application stopped {e0f1c992}
+[06/16/22 16:24:38]: <0x5A01> Deadman enabled. {7776dc45}
+[06/16/22 16:25:32]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 52738 id=#52241008 {26b79c47}
+[06/16/22 16:29:09]: ----------------------------------------------- {1cb84404}
+[06/16/22 16:29:09]: Logger started (1048576) {2b8668e5}
+[06/16/22 16:29:13]: <0x0003> CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ? {232cd0f5}
+[06/16/22 16:29:13]: <0x0003> Cycle time set to 0.004s {da1e3346}
+[06/16/22 16:29:13]: <0x0003> Simulation cycle time set to 0.1s {b6d0f880}
+[06/16/22 16:29:13]: <0x0002> Controller IP address could not be updated {e40f8d59}
+[06/16/22 16:29:13]: <0x0003> Mcp = TSimulated {4ce33274}
+[06/16/22 16:29:13]: <0x340A> Mcp communication established {93c65bb6}
+[06/16/22 16:29:13]: <0x0002> Default user payload used. {d4a2baba}
+[06/16/22 16:29:13]: <0x0003> Payload default: mass=6 kg, gravity center: x=0 y=0 z=97 mm, inertia=0 {b5a1e85c}
+[06/16/22 16:29:13]: <0x2401> Power hour count = 1:11:01 {188a6238}
+[06/16/22 16:29:13]: <0x2401> Mac Address = e8-39-35-45-ae-1f {4c3a93c8}
+[06/16/22 16:29:13]: <0x0003> COM-PC: server created on all interfaces [851] {44052062}
+[06/16/22 16:29:13]: <0x2402> History handler has been connected to IHM {a7695f7a}
+[06/16/22 16:29:13]: <0x2401> System: s7.9 Dec 10 2015 {86a6ebd3}
+[06/16/22 16:29:13]: <0x2401> Configuration Version: c1.032  {24e4a10f}
+[06/16/22 16:29:13]: <0x2401> CPU: TEKNOR  {85c35148}
+[06/16/22 16:29:13]: <0x2401> Option testMode: enabled  {90141d2e}
+[06/16/22 16:29:13]: <0x2401> Option VAL 3: enabled  {80bdc931}
+[06/16/22 16:29:13]: <0x2401> Machine Number: ?  {01d4916f}
+[06/16/22 16:29:13]: <0x2401> Arm: tx90-S1-R6 floor {66581bc6}
+[06/16/22 16:29:13]: <0x2401> Arm serial number: ?  {7d59bbca}
+[06/16/22 16:29:13]: <0x2401> Robot name:   {05279b73}
+[06/16/22 16:29:13]: <0x2401> EP: s7.9 Dec  8 2015 {00fdfcac}
+[06/16/22 16:29:13]: <0x2401> EP10: s7.9 Dec  8 2015 {45cff454}
+[06/16/22 16:29:13]: <0x2401> SCA: s7.9 Dec  8 2015 {71b9e2f1}
+[06/16/22 16:29:13]: <0x2201> New profile : default {92f2126e}
+[06/16/22 16:29:13]: <0x2401> End of controller initialization {47958360}
+[06/16/22 16:29:14]: <0x2402> COM-PC: create session 127.0.0.1 on port 59951 id=#55142480 {4a5191b3}
+[06/16/22 16:29:14]: <0x1801> Working mode:automatic. {1e0bc02b}
+[06/16/22 16:29:14]: <0x1602> End of arm power shutdown phase. {bd95b325}
+[06/16/22 16:29:19]: <0x2401> Saving controller context... {050196e3}
+[06/16/22 16:29:20]: <0x2402> Controller temperature: 28°C {d4d5ed24}
+[06/16/22 16:29:20]: <0x2402> CPU temperature: 28°C {4d2722a3}
+[06/16/22 16:29:35]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 59951 id=#55142480 {89dc5477}
+[06/16/22 16:29:38]: <0x2402> COM-PC: create session 127.0.0.1 on port 59956 id=#55143000 {767b2fe8}
+[06/16/22 16:29:38]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {a35a6e4a}
+[06/16/22 16:29:38]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {5f72940d}
+[06/16/22 16:29:38]: <0x5402> TP1_Paolo application started {ad659c78}
+[06/16/22 16:29:39]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 59956 id=#55143000 {70425171}
+[06/16/22 16:29:40]: <0x5A03> Deadman validated {527dfd6d}
+[06/16/22 16:29:40]: <0x1603> Settling arm power... {6e4416c6}
+[06/16/22 16:29:40]: <0x1601> Arm power settled. {e75dfc7a}
+[06/16/22 16:29:44]: <0x2402> COM-PC: create session 127.0.0.1 on port 59960 id=#55141960 {16e8735d}
+[06/16/22 16:29:50]: <0x5403> TP1_Paolo application stopped {e508fe0a}
+[06/16/22 16:29:56]: <0x5A01> Deadman enabled. {643080f9}
+[06/16/22 16:30:03]: <0x2402> COM-PC: create session 127.0.0.1 on port 59960 id=#55142896 {280ff49e}
+[06/16/22 16:30:03]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {1ce04b37}
+[06/16/22 16:30:03]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {9ad07d2d}
+[06/16/22 16:30:03]: <0x5402> TP1_Paolo application started {69a08492}
+[06/16/22 16:30:04]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 59960 id=#55142896 {d58b8ef9}
+[06/16/22 16:30:10]: <0x5403> TP1_Paolo application stopped {6436da23}
+[06/16/22 16:30:43]: <0x2402> COM-PC: create session 127.0.0.1 on port 59960 id=#55143416 {e1919d21}
+[06/16/22 16:30:43]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {1a8ae69c}
+[06/16/22 16:30:43]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {43c1b847}
+[06/16/22 16:30:44]: <0x5402> TP1_Paolo application started {0eddeabc}
+[06/16/22 16:30:44]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 59960 id=#55143416 {c40ae0cb}
+[06/16/22 16:30:53]: <0x5403> TP1_Paolo application stopped {96137cf8}
+[06/16/22 16:31:29]: <0x2402> COM-PC: create session 127.0.0.1 on port 59960 id=#55143520 {28ef8c1d}
+[06/16/22 16:31:30]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {91c682f4}
+[06/16/22 16:31:30]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {ea41f32f}
+[06/16/22 16:31:30]: <0x5402> TP1_Paolo application started {2c1c0bc0}
+[06/16/22 16:31:30]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 59960 id=#55143520 {5db5b2eb}
+[06/16/22 16:34:07]: <0x2402> COM-PC: create session 127.0.0.1 on port 59960 id=#55143000 {495a1ee7}
+[06/16/22 16:34:07]: <0x2401> COM-PC: start WCF Client on '127.0.0.1:851' {2860dfdf}
+[06/16/22 16:34:07]: <0x2402> COM-CLIENT: Connected to http://127.0.0.1:5656 {ef72493e}
+[06/16/22 16:34:07]: <0x5403> TP1_Paolo application stopped {e2031929}
+[06/16/22 16:34:07]: <0x5402> TP1_Paolo application started {dca52fe8}
+[06/16/22 16:34:07]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 59960 id=#55143000 {19ba22f7}
+[06/16/22 16:34:17]: <0x5403> TP1_Paolo application stopped {e8279fd5}
+[06/16/22 16:46:47]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 59960 id=#55141960 {19a64ae2}
+[06/16/22 16:46:48]: <0x2402> COM-PC: create session 127.0.0.1 on port 60095 id=#55142480 {8b2d5777}
+[06/16/22 16:49:10]: ----------------------------------------------- {e0884344}
+[06/16/22 16:49:10]: Logger started (1048576) {8f885226}
+[06/16/22 16:49:14]: <0x0003> CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ? {97149b76}
+[06/16/22 16:49:14]: <0x0003> Cycle time set to 0.004s {7669f278}
+[06/16/22 16:49:14]: <0x0003> Simulation cycle time set to 0.1s {a91e287e}
+[06/16/22 16:49:14]: <0x0002> Controller IP address could not be updated {14479869}
+[06/16/22 16:49:14]: <0x0003> Mcp = TSimulated {73acd3ba}
+[06/16/22 16:49:14]: <0x340A> Mcp communication established {3e695c45}
+[06/16/22 16:49:14]: <0x0002> Default user payload used. {bf19fe4a}
+[06/16/22 16:49:14]: <0x0003> Payload default: mass=6 kg, gravity center: x=0 y=0 z=97 mm, inertia=0 {312c4534}
+[06/16/22 16:49:14]: <0x2401> Power hour count = 1:11:01 {5e4be50f}
+[06/16/22 16:49:14]: <0x2401> Mac Address = e8-39-35-45-ae-1f {ac473b2a}
+[06/16/22 16:49:14]: <0x0003> COM-PC: server created on all interfaces [851] {0035255e}
+[06/16/22 16:49:14]: <0x2402> History handler has been connected to IHM {fe69fb32}
+[06/16/22 16:49:14]: <0x2401> System: s7.9 Dec 10 2015 {4fa518f9}
+[06/16/22 16:49:14]: <0x2401> Configuration Version: c1.032  {93264e8f}
+[06/16/22 16:49:14]: <0x2401> CPU: TEKNOR  {9dff2bbb}
+[06/16/22 16:49:14]: <0x2401> Option testMode: enabled  {47bfc080}
+[06/16/22 16:49:14]: <0x2401> Option VAL 3: enabled  {77fa31cf}
+[06/16/22 16:49:14]: <0x2401> Machine Number: ?  {a71e01ff}
+[06/16/22 16:49:14]: <0x2401> Arm: tx90-S1-R6 floor {ec3d9169}
+[06/16/22 16:49:14]: <0x2401> Arm serial number: ?  {a7e79b60}
+[06/16/22 16:49:14]: <0x2401> Robot name:   {e38911ee}
+[06/16/22 16:49:14]: <0x2401> EP: s7.9 Dec  8 2015 {f4b7fdc8}
+[06/16/22 16:49:14]: <0x2401> EP10: s7.9 Dec  8 2015 {fd754dc9}
+[06/16/22 16:49:14]: <0x2401> SCA: s7.9 Dec  8 2015 {f3154dc6}
+[06/16/22 16:49:14]: <0x2201> New profile : default {0cee3433}
+[06/16/22 16:49:14]: <0x2401> End of controller initialization {a9a7aca9}
+[06/16/22 16:49:15]: <0x2402> COM-PC: create session 127.0.0.1 on port 60127 id=#49051336 {407e3dcd}
+[06/16/22 16:49:15]: <0x1801> Working mode:automatic. {1b62f509}
+[06/16/22 16:49:15]: <0x1602> End of arm power shutdown phase. {3b5b12cc}
+[06/16/22 16:49:35]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 60127 id=#49051336 {f134bc49}

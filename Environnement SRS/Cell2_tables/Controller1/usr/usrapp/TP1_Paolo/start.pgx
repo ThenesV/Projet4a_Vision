@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Programs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.staubli.com/robotics/VAL3/Program/2" >
+  <Program name="start" access="private" >
+    <Locals>
+      <Local name="l_ncouleur_bout" type="num" xsi:type="array" size="1" />
+    </Locals>
+    <Code><![CDATA[begin
+
+  //  sioCtrl(sData, "port", 8500)
+  //  sioCtrl(sData, "clients", 1)
+  //  //CCaractère de fin de line : Line Feed
+  //  sioCtrl(sData, "endOfString", 13)  
+
+  //  logMsg("------------ Sio Initialise")
+
+  //  logMsg("  dataAcquisition start")
+  //  do
+
+  //    nb=0
+  //    i=0
+  //    while(nb<32)
+  //      nb=sioGet(sData, l_nByteIn[i]) 
+
+  //      if(nb>0)   
+  //        i=i+nb 
+  //      else
+  //        // Erreur de communication  	
+  //        return
+  //      endIf
+  //      logMsg("Recuperation du buffer...")
+  //    endWhile  
+  //    logMsg("Buffer récupéré.")
+
+
+
+  l_ncouleur_bout=1
+
+  call picketplace(l_ncouleur_bout)
+
+
+  l_ncouleur_bout=0
+  call picketplace(l_ncouleur_bout)
+  waitEndMove()
+
+end]]></Code>
+  </Program>
+</Programs>

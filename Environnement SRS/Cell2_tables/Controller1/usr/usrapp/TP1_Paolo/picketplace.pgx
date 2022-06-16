@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Programs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.staubli.com/robotics/VAL3/Program/2" >
+  <Program name="picketplace" access="private" >
+    <Parameters xmlns="http://www.staubli.com/robotics/VAL3/Param/1" >
+      <Parameter name="x_nCouleurbout" type="num" use="value" xsi:type="element" dimensions="1" />
+    </Parameters>
+    <Code><![CDATA[begin
+  // 1er Mouvement sur un Joint 
+  movej(jDepart,tPince,mRapide100joint)
+
+
+
+  movej(appro(pPrise[0],trApproZ),tPince,mRapide100joint)
+
+  // Ouvrir la Pince
+  open(tPince)
+  // Aller Lentement au Point de Prise 
+  movel(pPrise[0],tPince,mPriseDepose)
+  // Fermer la Pince 
+  close(tPince)
+
+  // Aller Lentement au Point d'Approche Prise (Dégagement) 
+  movel(appro(pPrise[0],trApproZ),tPince,mPriseDepose)
+
+
+  // 3 Mouvements pour la Depose de la Bouteille 
+  // Aller Rapidement au Point d'Approche Depose selon la couleur de la bouteille
+  movej(appro(pDepose[x_nCouleurbout],trApproZ),tPince,mRapide100joint)
+
+  // Aller Lentement au Point de Depose 
+  movel(pDepose[x_nCouleurbout],tPince,mPriseDepose)
+
+  open(tPince)
+
+  // Aller Lentement au Point d'Approche Depose (Dégagement) 
+  movel(appro(pDepose[x_nCouleurbout],trApproZ),tPince,mPriseDepose)
+
+
+  // Dernier Mouvement sur un Joint 
+  movej(jDepart,tPince,mRapide100joint)
+
+end]]></Code>
+  </Program>
+</Programs>
