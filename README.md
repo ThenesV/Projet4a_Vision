@@ -1,4 +1,4 @@
-# Projet4a_Vision
+# Projet4a_Vision_Basler_python
 
 Camera Basler aca3088 57uc - USB 3.0
 
@@ -28,10 +28,33 @@ Avant de lancer le code avec la caméra, il faut aller sur le logiciel pylon vie
  - pylon_camera_color_detection.py : détection de couleur avec une interface pour choisir la couleur (masque) avec la Caméra Basler
  
  ![image](https://user-images.githubusercontent.com/100229511/174100912-911a2bbe-0a46-47bf-87e4-ac10eb0c5f49.png)
+ 
+ - Version finale :  pylon_camera_color_finale.py : détection de couleur avec une interface pour choisir la couleur (masque) et détection de position de la bouteille avec la Caméra Basler
 
 Interface pour choisir la couleur du masque (Teinte, Saturation, Luminance - HSV)
 
  ![image](https://user-images.githubusercontent.com/100229511/174100324-2c48a0f4-dea4-438c-9d2b-592acc31e3f2.png)
+ 
+ 
+ 
+# Protocole :
+
+- Connecter la caméra Basler sur l'ordinateur (USB 3.0)
+
+- Aller sur le logiciel pylon viewer - modifier le paramètre : Image format pour BGR8
+
+![Capture d’écran 2022-06-09 151506](https://user-images.githubusercontent.com/100229511/175516647-34eaccb2-3394-4fd0-b681-76d07bf0b31b.png)
+
+Notre environnement de travail : Visual Studio Code - Anaconda - python
+
+Bibliothèques : OpenCV, pypylon, numpy
+
+- Ouvrir le code : pylon_camera_color_finale.py
+
+- lancer le code
+
+
+
 
 # Environnement SRS
 
